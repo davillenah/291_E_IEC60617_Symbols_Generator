@@ -5,8 +5,10 @@ Todos los cambios notables de este proyecto se documentan en este archivo.
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/)
 y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
-## [Unreleased]
+## [0.4.15] - 2026-10-22
 
+- Catalogos JSON ordenados alfabéticamente por id, uno por biblioteca (sld-lv, sld-mv, mld-lv, mld-mv).
+- Un único `catalogo_simbolos.xlsx` en `src/`; eliminados los duplicados.
 - Catálogos: 42 entradas nuevas (32 MLD y 10 SLD) para las variantes ACB/MCCB con drawout, LSIG y motorizado, y `lv_cable_run`, que faltaba.
 - Catálogos: `viewBox` y `size` sincronizados con los SVG (`size` = dimensiones en mm del SVG).
 - Catálogos: puertos del SLD sincronizados con los SVG (15 corregidos).

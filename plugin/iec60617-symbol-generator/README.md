@@ -1,6 +1,6 @@
 # iec60617-symbol-generator
 
-Biblioteca de simbolos electricos para los plugins sld-generator y mld-generator. Version 0.4.14.
+Biblioteca de simbolos electricos para los plugins sld-generator y mld-generator. Version 0.4.15.
 
 ## Contenido
 
@@ -17,6 +17,7 @@ Simbolo nuevo en 0.3.0: `lv_cable_run` (tramo de cable con identificacion). Para
 
 ## Version
 
+- **0.4.15** – Catálogo: 42 entradas nuevas (variantes ACB/MCCB con drawout, LSIG y motorizado en MLD y SLD, y lv_cable_run); viewBox y size sincronizados con los SVG; puertos SLD sincronizados; catálogos JSON ordenados y uno por biblioteca (sld-lv, sld-mv, mld-lv, mld-mv); un único catalogo_simbolos.xlsx. Pendiente: 10 entradas MCCB basic/motorized sin SVG.
 - **0.4.14** – Paso entre polos MLD = 10 mm (antes 12.5 mm): ejes de polo en x = 0, 10, 20, 30; celdas ACB/MCCB de 10 mm contiguas; cajas anchas (ATS, VFD, UPS, motor, generador, etc.) = 10 mm por polo; puertos, etiquetas, viewBox y DXF actualizados en los 72 archivos multipolo.
 - **0.4.13** – Geometría real unificada en SVG/DXF MLD: celdas de protección ACB/MCCB (todas las variantes: drawout, LSIG, motorizado) de 10 mm de ancho en 1p/2p/3p/4p, centradas en el eje de polo de 12.5 mm; relé térmico 4.9 mm por polo; decoración (drawout, motor) y viewBox alineados igual en todos los polos; DXF y catálogos regenerados.
 - 0.4.12: catalogo Excel con escala uniforme (4 px por mm) para todos los simbolos: antes cada imagen se ajustaba a una caja fija y los simbolos mas grandes se veian mas chicos; ahora filas y columnas se adaptan al tamano real (las celdas MV de gabinete, de 290 mm de alto, se reducen para entrar en la fila).
