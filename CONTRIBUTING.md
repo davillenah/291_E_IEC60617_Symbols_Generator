@@ -11,7 +11,8 @@ Gracias por colaborar con la biblioteca de símbolos IEC 60617.
 | `src/mld-lv-symbol/` | Multifilares de baja tensión (SVG + DXF) |
 | `src/mld-mv-symbol/` | Multifilares de media tensión (pendiente) |
 | `src/ssd-mv-symbol/` | Biblioteca adicional de media tensión |
-| `src/catalogo_simbolos.xlsx` | Catálogo Excel único (ordenado alfabéticamente por símbolo), generado con `tools/build_cat9.py` |
+| `src/catalogo_simbolos.xlsx` | Catálogo Excel único (ordenado alfabéticamente por símbolo), generado con `tools/build_cat9.py`. Es el único `catalogo_simbolos.xlsx` del repo |
+| `src/{sld-lv,sld-mv,mld-lv,mld-mv}-symbol/_catalog.json` | Un catálogo JSON por biblioteca (4 en total) |
 | `plugin/` | Manifiesto del plugin y paquete `.plugin` |
 | `assets/` | Documento de referencia IEC 60617 |
 | `tools/` | Scripts de build (ver abajo) |
@@ -21,7 +22,7 @@ Gracias por colaborar con la biblioteca de símbolos IEC 60617.
 | Script | Uso |
 |---|---|
 | `svg2dxf_all.py <svg> <dxf>` | Genera el DXF de un símbolo a partir de su SVG |
-| `build_pkg.py <plugin_dir> <catalogo.xlsx> <salida.plugin>` | Empaqueta el plugin (usar rutas absolutas) |
+| `build_pkg.py <plugin_dir> <catalogo_simbolos.xlsx> <salida.plugin>` | Empaqueta el plugin (usar rutas absolutas) |
 | `build_cat9.py <project\|root> <salida.xlsx>` | Genera el catálogo Excel con escala uniforme (4 px/mm). Requiere `cairosvg` y `openpyxl` |
 
 Ejemplos:
