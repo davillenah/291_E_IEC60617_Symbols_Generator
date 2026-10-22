@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="IEC 60617 Symbol Library" width="100%"/>
+<img src="assets/logo.png" alt="IEC 60617 Symbol Library" width="420"/>
 
 # ⚡ IEC 60617 Symbol Library
 
@@ -63,7 +63,7 @@ Los catálogos JSON (uno por biblioteca) describen cada símbolo: `id`, archivo,
 
 ```
 .
-├── assets/            Referencia normativa IEC 60617 y banner
+├── assets/            Referencia normativa IEC 60617 y logo
 ├── feedback/          Comentarios y propuestas de mejora
 ├── plugin/            Manifiesto del plugin y paquete .plugin
 ├── src/
