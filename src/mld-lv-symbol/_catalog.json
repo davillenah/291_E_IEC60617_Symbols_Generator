@@ -713,14 +713,14 @@
         "S00327"
       ],
       "size": {
-        "w": 33.81,
-        "h": 36.33
+        "w": 66.37,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 65.37,
-        "h": 38.93
+        "w": 66.37,
+        "h": 43.93
       },
       "ports": [
         {
@@ -818,14 +818,14 @@
         "S00327"
       ],
       "size": {
-        "w": 46.31,
-        "h": 36.33
+        "w": 76.37,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 77.87,
-        "h": 38.93
+        "w": 76.37,
+        "h": 43.93
       },
       "ports": [
         {
@@ -946,14 +946,14 @@
         "S00327"
       ],
       "size": {
-        "w": 71.31,
-        "h": 36.33
+        "w": 96.37,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 102.87,
-        "h": 38.93
+        "w": 96.37,
+        "h": 43.93
       },
       "ports": [
         {
@@ -1118,14 +1118,14 @@
         "S00295"
       ],
       "size": {
-        "w": 26.93,
-        "h": 40.08
+        "w": 46.525,
+        "h": 47.08
       },
       "viewBox": {
-        "x": -25.87,
+        "x": -38.525,
         "y": -4.83,
-        "w": 31.85,
-        "h": 42.08
+        "w": 46.525,
+        "h": 47.08
       },
       "ports": [
         {
@@ -1194,14 +1194,14 @@
         "S00295"
       ],
       "size": {
-        "w": 42.49,
-        "h": 40.08
+        "w": 56.525,
+        "h": 47.08
       },
       "viewBox": {
-        "x": -27.4,
+        "x": -38.525,
         "y": -4.83,
-        "w": 47.41,
-        "h": 42.08
+        "w": 56.525,
+        "h": 47.08
       },
       "ports": [
         {
@@ -1293,14 +1293,14 @@
         "S00295"
       ],
       "size": {
-        "w": 54.99,
-        "h": 40.08
+        "w": 66.525,
+        "h": 47.08
       },
       "viewBox": {
-        "x": -27.4,
+        "x": -38.525,
         "y": -4.83,
-        "w": 59.91,
-        "h": 42.08
+        "w": 66.525,
+        "h": 47.08
       },
       "ports": [
         {
@@ -1415,14 +1415,14 @@
         "S00295"
       ],
       "size": {
-        "w": 67.49,
-        "h": 40.08
+        "w": 76.525,
+        "h": 47.08
       },
       "viewBox": {
-        "x": -27.4,
+        "x": -38.525,
         "y": -4.83,
-        "w": 72.41,
-        "h": 42.08
+        "w": 76.525,
+        "h": 47.08
       },
       "ports": [
         {
@@ -1560,13 +1560,13 @@
         "S00295"
       ],
       "size": {
-        "w": 33.61,
-        "h": 38.83
+        "w": 66.651,
+        "h": 41.43
       },
       "viewBox": {
-        "x": -60.17,
+        "x": -58.651,
         "y": -4.83,
-        "w": 67.68,
+        "w": 66.651,
         "h": 41.43
       },
       "ports": [
@@ -1655,13 +1655,13 @@
         "S00295"
       ],
       "size": {
-        "w": 46.11,
-        "h": 38.83
+        "w": 76.651,
+        "h": 41.43
       },
       "viewBox": {
-        "x": -60.17,
+        "x": -58.651,
         "y": -4.83,
-        "w": 80.18,
+        "w": 76.651,
         "h": 41.43
       },
       "ports": [
@@ -1773,13 +1773,13 @@
         "S00295"
       ],
       "size": {
-        "w": 58.61,
-        "h": 38.83
+        "w": 86.651,
+        "h": 41.43
       },
       "viewBox": {
-        "x": -60.17,
+        "x": -58.651,
         "y": -4.83,
-        "w": 92.68,
+        "w": 86.651,
         "h": 41.43
       },
       "ports": [
@@ -1914,13 +1914,13 @@
         "S00295"
       ],
       "size": {
-        "w": 71.11,
-        "h": 38.83
+        "w": 96.651,
+        "h": 41.43
       },
       "viewBox": {
-        "x": -60.17,
+        "x": -58.651,
         "y": -4.83,
-        "w": 105.18,
+        "w": 96.651,
         "h": 41.43
       },
       "ports": [
@@ -2604,14 +2604,14 @@
         "S00295"
       ],
       "size": {
-        "w": 22.12,
-        "h": 36.33
+        "w": 59.87,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 56.18,
-        "h": 38.93
+        "w": 59.87,
+        "h": 43.93
       },
       "ports": [
         {
@@ -2687,14 +2687,14 @@
         "S00295"
       ],
       "size": {
-        "w": 34.62,
-        "h": 36.33
+        "w": 66.18,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 68.68,
-        "h": 38.93
+        "w": 66.18,
+        "h": 43.93
       },
       "ports": [
         {
@@ -2793,14 +2793,14 @@
         "S00295"
       ],
       "size": {
-        "w": 49.2,
-        "h": 36.33
+        "w": 78.26,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 83.26,
-        "h": 38.93
+        "w": 78.26,
+        "h": 43.93
       },
       "ports": [
         {
@@ -2922,14 +2922,14 @@
         "S00295"
       ],
       "size": {
-        "w": 59.62,
-        "h": 36.33
+        "w": 86.18,
+        "h": 43.93
       },
       "viewBox": {
         "x": -51.87,
         "y": -4.83,
-        "w": 93.68,
-        "h": 38.93
+        "w": 86.18,
+        "h": 43.93
       },
       "ports": [
         {
@@ -3072,14 +3072,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 33.8,
-        "h": 36.33
+        "w": 58.04,
+        "h": 43.93
       },
       "viewBox": {
         "x": -43.54,
         "y": -4.83,
-        "w": 57.04,
-        "h": 38.93
+        "w": 58.04,
+        "h": 43.93
       },
       "ports": [
         {
@@ -3155,14 +3155,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 46.3,
-        "h": 36.33
+        "w": 68.04,
+        "h": 43.93
       },
       "viewBox": {
         "x": -43.54,
         "y": -4.83,
-        "w": 69.54,
-        "h": 38.93
+        "w": 68.04,
+        "h": 43.93
       },
       "ports": [
         {
@@ -3261,14 +3261,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 71.3,
-        "h": 36.33
+        "w": 88.04,
+        "h": 43.93
       },
       "viewBox": {
         "x": -43.54,
         "y": -4.83,
-        "w": 94.54,
-        "h": 38.93
+        "w": 88.04,
+        "h": 43.93
       },
       "ports": [
         {
@@ -3412,14 +3412,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 16.98,
-        "h": 18.83
+        "w": 34.285,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -15.09,
+        "x": -27.0,
         "y": -4.83,
-        "w": 19.49,
-        "h": 21.43
+        "w": 34.285,
+        "h": 26.43
       },
       "ports": [
         {
@@ -3483,14 +3483,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 29.48,
-        "h": 18.83
+        "w": 40.685,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -15.09,
+        "x": -27.0,
         "y": -4.83,
-        "w": 31.99,
-        "h": 21.43
+        "w": 40.685,
+        "h": 26.43
       },
       "ports": [
         {
@@ -3577,14 +3577,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 44.06,
-        "h": 18.83
+        "w": 52.675,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -15.09,
+        "x": -27.0,
         "y": -4.83,
-        "w": 46.48,
-        "h": 21.43
+        "w": 52.675,
+        "h": 26.43
       },
       "ports": [
         {
@@ -3694,14 +3694,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 54.48,
-        "h": 18.83
+        "w": 60.685,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -15.09,
+        "x": -27.0,
         "y": -4.83,
-        "w": 56.99,
-        "h": 21.43
+        "w": 60.685,
+        "h": 26.43
       },
       "ports": [
         {
@@ -3835,13 +3835,13 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 28.58,
-        "h": 26.33
+        "w": 63.85,
+        "h": 28.93
       },
       "viewBox": {
         "x": -55.85,
         "y": -4.83,
-        "w": 60.16,
+        "w": 63.85,
         "h": 28.93
       },
       "ports": [
@@ -3925,13 +3925,13 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 41.08,
-        "h": 26.33
+        "w": 70.16,
+        "h": 28.93
       },
       "viewBox": {
         "x": -55.85,
         "y": -4.83,
-        "w": 72.66,
+        "w": 70.16,
         "h": 28.93
       },
       "ports": [
@@ -4038,13 +4038,13 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 55.66,
-        "h": 26.33
+        "w": 82.24,
+        "h": 28.93
       },
       "viewBox": {
         "x": -55.85,
         "y": -4.83,
-        "w": 87.24,
+        "w": 82.24,
         "h": 28.93
       },
       "ports": [
@@ -4174,13 +4174,13 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 66.08,
-        "h": 26.33
+        "w": 90.16,
+        "h": 28.93
       },
       "viewBox": {
         "x": -55.85,
         "y": -4.83,
-        "w": 97.66,
+        "w": 90.16,
         "h": 28.93
       },
       "ports": [
@@ -4335,14 +4335,14 @@
         "S00295"
       ],
       "size": {
-        "w": 15.26,
-        "h": 41.33
+        "w": 39.025,
+        "h": 48.93
       },
       "viewBox": {
-        "x": -18.37,
+        "x": -31.025,
         "y": -4.83,
-        "w": 22.68,
-        "h": 43.93
+        "w": 39.025,
+        "h": 48.93
       },
       "ports": [
         {
@@ -4409,14 +4409,14 @@
         "S00295"
       ],
       "size": {
-        "w": 27.76,
-        "h": 41.33
+        "w": 45.335,
+        "h": 48.93
       },
       "viewBox": {
-        "x": -18.37,
+        "x": -31.025,
         "y": -4.83,
-        "w": 35.18,
-        "h": 43.93
+        "w": 45.335,
+        "h": 48.93
       },
       "ports": [
         {
@@ -4506,14 +4506,14 @@
         "S00295"
       ],
       "size": {
-        "w": 42.35,
-        "h": 41.33
+        "w": 57.415,
+        "h": 48.93
       },
       "viewBox": {
-        "x": -18.37,
+        "x": -31.025,
         "y": -4.83,
-        "w": 49.76,
-        "h": 43.93
+        "w": 57.415,
+        "h": 48.93
       },
       "ports": [
         {
@@ -4626,14 +4626,14 @@
         "S00295"
       ],
       "size": {
-        "w": 52.76,
-        "h": 41.33
+        "w": 65.335,
+        "h": 48.93
       },
       "viewBox": {
-        "x": -18.37,
+        "x": -31.025,
         "y": -4.83,
-        "w": 60.18,
-        "h": 43.93
+        "w": 65.335,
+        "h": 48.93
       },
       "ports": [
         {
@@ -4768,14 +4768,14 @@
         "S00295"
       ],
       "size": {
-        "w": 14.68,
-        "h": 21.33
+        "w": 35.789,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -28.5,
         "y": -4.83,
-        "w": 22.09,
-        "h": 23.93
+        "w": 35.789,
+        "h": 26.43
       },
       "ports": [
         {
@@ -4841,14 +4841,14 @@
         "S00295"
       ],
       "size": {
-        "w": 27.18,
-        "h": 21.33
+        "w": 42.099,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -28.5,
         "y": -4.83,
-        "w": 34.59,
-        "h": 23.93
+        "w": 42.099,
+        "h": 26.43
       },
       "ports": [
         {
@@ -4937,14 +4937,14 @@
         "S00295"
       ],
       "size": {
-        "w": 41.76,
-        "h": 21.33
+        "w": 54.179,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -28.5,
         "y": -4.83,
-        "w": 49.17,
-        "h": 23.93
+        "w": 54.179,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5056,14 +5056,14 @@
         "S00295"
       ],
       "size": {
-        "w": 52.18,
-        "h": 21.33
+        "w": 62.099,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -28.5,
         "y": -4.83,
-        "w": 59.59,
-        "h": 23.93
+        "w": 62.099,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5198,14 +5198,14 @@
         "S00295"
       ],
       "size": {
-        "w": 32.17,
-        "h": 18.83
+        "w": 36.402,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -29.86,
+        "x": -28.5,
         "y": -4.83,
-        "w": 37.76,
-        "h": 21.43
+        "w": 36.402,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5271,14 +5271,14 @@
         "S00295"
       ],
       "size": {
-        "w": 44.67,
-        "h": 18.83
+        "w": 42.712,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -29.86,
+        "x": -28.5,
         "y": -4.83,
-        "w": 46.67,
-        "h": 21.43
+        "w": 42.712,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5367,14 +5367,14 @@
         "S00295"
       ],
       "size": {
-        "w": 59.25,
-        "h": 18.83
+        "w": 56.302,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -29.86,
+        "x": -28.5,
         "y": -4.83,
-        "w": 62.76,
-        "h": 21.43
+        "w": 56.302,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5486,14 +5486,14 @@
         "S00295"
       ],
       "size": {
-        "w": 69.67,
-        "h": 18.83
+        "w": 62.712,
+        "h": 26.43
       },
       "viewBox": {
-        "x": -29.86,
+        "x": -28.5,
         "y": -4.83,
-        "w": 71.67,
-        "h": 21.43
+        "w": 62.712,
+        "h": 26.43
       },
       "ports": [
         {
@@ -5627,14 +5627,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 12.72,
-        "h": 16.33
+        "w": 36.451,
+        "h": 25.73
       },
       "viewBox": {
-        "x": -15.82,
+        "x": -28.451,
         "y": -4.83,
-        "w": 20.13,
-        "h": 20.73
+        "w": 36.451,
+        "h": 25.73
       },
       "ports": [
         {
@@ -5699,14 +5699,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 32.52,
-        "h": 16.33
+        "w": 46.451,
+        "h": 25.73
       },
       "viewBox": {
-        "x": -19.9,
+        "x": -28.451,
         "y": -4.83,
-        "w": 39.93,
-        "h": 20.73
+        "w": 46.451,
+        "h": 25.73
       },
       "ports": [
         {
@@ -5794,14 +5794,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 45.02,
-        "h": 16.33
+        "w": 56.451,
+        "h": 25.73
       },
       "viewBox": {
-        "x": -19.9,
+        "x": -28.451,
         "y": -4.83,
-        "w": 52.43,
-        "h": 20.73
+        "w": 56.451,
+        "h": 25.73
       },
       "ports": [
         {
@@ -5912,14 +5912,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 57.52,
-        "h": 16.33
+        "w": 66.451,
+        "h": 25.73
       },
       "viewBox": {
-        "x": -19.9,
+        "x": -28.451,
         "y": -4.83,
-        "w": 64.93,
-        "h": 20.73
+        "w": 66.451,
+        "h": 25.73
       },
       "ports": [
         {
@@ -6053,14 +6053,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 26.23,
-        "h": 26.33
+        "w": 59.69,
+        "h": 33.93
       },
       "viewBox": {
         "x": -51.69,
         "y": -4.83,
-        "w": 56.13,
-        "h": 28.93
+        "w": 59.69,
+        "h": 33.93
       },
       "ports": [
         {
@@ -6122,14 +6122,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 38.73,
-        "h": 26.33
+        "w": 67.131,
+        "h": 33.93
       },
       "viewBox": {
         "x": -51.69,
         "y": -4.83,
-        "w": 68.63,
-        "h": 28.93
+        "w": 67.131,
+        "h": 33.93
       },
       "ports": [
         {
@@ -6204,14 +6204,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 53.17,
-        "h": 26.33
+        "w": 78.08,
+        "h": 33.93
       },
       "viewBox": {
         "x": -51.69,
         "y": -4.83,
-        "w": 83.08,
-        "h": 28.93
+        "w": 78.08,
+        "h": 33.93
       },
       "ports": [
         {
@@ -6299,14 +6299,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 63.73,
-        "h": 26.33
+        "w": 87.131,
+        "h": 33.93
       },
       "viewBox": {
         "x": -51.69,
         "y": -4.83,
-        "w": 93.63,
-        "h": 28.93
+        "w": 87.131,
+        "h": 33.93
       },
       "ports": [
         {
@@ -6407,14 +6407,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 22.91,
-        "h": 43.83
+        "w": 36.647,
+        "h": 51.43
       },
       "viewBox": {
-        "x": -20.6,
+        "x": -28.647,
         "y": -4.83,
-        "w": 24.91,
-        "h": 46.43
+        "w": 36.647,
+        "h": 51.43
       },
       "ports": [
         {
@@ -6467,14 +6467,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L).",
       "iec_60617": [],
       "size": {
-        "w": 35.41,
-        "h": 43.83
+        "w": 43.294,
+        "h": 51.43
       },
       "viewBox": {
-        "x": -20.6,
+        "x": -28.647,
         "y": -4.83,
-        "w": 37.41,
-        "h": 46.43
+        "w": 43.294,
+        "h": 51.43
       },
       "ports": [
         {
@@ -6540,14 +6540,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 49.99,
-        "h": 43.83
+        "w": 55.037,
+        "h": 51.43
       },
       "viewBox": {
-        "x": -20.6,
+        "x": -28.647,
         "y": -4.83,
-        "w": 51.99,
-        "h": 46.43
+        "w": 55.037,
+        "h": 51.43
       },
       "ports": [
         {
@@ -6626,14 +6626,14 @@
       "notes": "Paso entre polos 12.5 mm. x=0 es el primer polo (L1).",
       "iec_60617": [],
       "size": {
-        "w": 60.41,
-        "h": 43.83
+        "w": 63.294,
+        "h": 51.43
       },
       "viewBox": {
-        "x": -20.6,
+        "x": -28.647,
         "y": -4.83,
-        "w": 62.41,
-        "h": 46.43
+        "w": 63.294,
+        "h": 51.43
       },
       "ports": [
         {
@@ -6727,14 +6727,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 42.95,
-        "h": 25.52
+        "w": 63.73,
+        "h": 33.73
       },
       "viewBox": {
         "x": -36.73,
         "y": -4.62,
-        "w": 68.33,
-        "h": 28.73
+        "w": 63.73,
+        "h": 33.73
       },
       "ports": [
         {
@@ -6840,14 +6840,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 55.45,
-        "h": 25.52
+        "w": 73.73,
+        "h": 33.73
       },
       "viewBox": {
         "x": -36.73,
         "y": -4.62,
-        "w": 80.83,
-        "h": 28.73
+        "w": 73.73,
+        "h": 33.73
       },
       "ports": [
         {
@@ -6969,14 +6969,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 40.8,
-        "h": 25.52
+        "w": 63.73,
+        "h": 33.73
       },
       "viewBox": {
         "x": -36.73,
         "y": -4.62,
-        "w": 68.33,
-        "h": 28.73
+        "w": 63.73,
+        "h": 33.73
       },
       "ports": [
         {
@@ -7082,14 +7082,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 42.95,
-        "h": 25.52
+        "w": 58.0,
+        "h": 33.73
       },
       "viewBox": {
-        "x": -29.09,
+        "x": -31.0,
         "y": -4.62,
-        "w": 60.69,
-        "h": 28.73
+        "w": 58.0,
+        "h": 33.73
       },
       "ports": [
         {
@@ -7195,14 +7195,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 46.05,
-        "h": 37.02
+        "w": 66.43,
+        "h": 45.23
       },
       "viewBox": {
         "x": -36.73,
         "y": -12.12,
-        "w": 71.43,
-        "h": 40.23
+        "w": 66.43,
+        "h": 45.23
       },
       "ports": [
         {
@@ -7329,14 +7329,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 57.18,
-        "h": 37.02
+        "w": 75.05,
+        "h": 45.23
       },
       "viewBox": {
         "x": -36.73,
         "y": -12.12,
-        "w": 82.55,
-        "h": 40.23
+        "w": 75.05,
+        "h": 45.23
       },
       "ports": [
         {
@@ -7484,14 +7484,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 12.03,
-        "h": 18.02
+        "w": 37.0,
+        "h": 26.23
       },
       "viewBox": {
-        "x": -16.64,
+        "x": -29.0,
         "y": -4.62,
-        "w": 22.62,
-        "h": 21.23
+        "w": 37.0,
+        "h": 26.23
       },
       "ports": [
         {
@@ -7548,14 +7548,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 41.43,
-        "h": 20.52
+        "w": 55.992,
+        "h": 28.73
       },
       "viewBox": {
-        "x": -17.14,
+        "x": -30.412,
         "y": -4.62,
-        "w": 47.72,
-        "h": 23.73
+        "w": 55.992,
+        "h": 28.73
       },
       "ports": [
         {
@@ -7642,14 +7642,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 52.55,
-        "h": 20.52
+        "w": 64.612,
+        "h": 28.73
       },
       "viewBox": {
-        "x": -17.14,
+        "x": -30.412,
         "y": -4.62,
-        "w": 58.84,
-        "h": 23.73
+        "w": 64.612,
+        "h": 28.73
       },
       "ports": [
         {
@@ -7753,14 +7753,14 @@
         "S00610"
       ],
       "size": {
-        "w": 42.25,
-        "h": 20.67
+        "w": 63.03,
+        "h": 38.87
       },
       "viewBox": {
         "x": -36.03,
         "y": -4.62,
-        "w": 67.63,
-        "h": 33.87
+        "w": 63.03,
+        "h": 38.87
       },
       "ports": [
         {
@@ -7845,14 +7845,14 @@
         "S00614"
       ],
       "size": {
-        "w": 42.25,
-        "h": 20.67
+        "w": 58.0,
+        "h": 31.05
       },
       "viewBox": {
-        "x": -24.58,
+        "x": -31.0,
         "y": -4.62,
-        "w": 56.18,
-        "h": 26.05
+        "w": 58.0,
+        "h": 31.05
       },
       "ports": [
         {
@@ -7938,14 +7938,14 @@
         "S00459"
       ],
       "size": {
-        "w": 42.25,
-        "h": 20.67
+        "w": 58.0,
+        "h": 38.87
       },
       "viewBox": {
-        "x": -24.58,
+        "x": -31.0,
         "y": -4.62,
-        "w": 56.18,
-        "h": 33.87
+        "w": 58.0,
+        "h": 38.87
       },
       "ports": [
         {
@@ -8000,6 +8000,4758 @@
           "y": 26.952,
           "anchor": "end",
           "size": 3.47
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB extraíble 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), drawout, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 46.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 46.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB extraíble 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), drawout, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 56.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 56.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB extraíble 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), drawout, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 66.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB extraíble 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), drawout, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 76.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB con unidad LSIG 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 46.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 46.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB con unidad LSIG 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 56.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 56.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB con unidad LSIG 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 66.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB con unidad LSIG 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 76.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB con unidad LSIG extraíble 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, drawout, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 46.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 46.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB con unidad LSIG extraíble 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, drawout, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 56.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 56.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB con unidad LSIG extraíble 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, drawout, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 66.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB con unidad LSIG extraíble 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, drawout, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.525,
+        "h": 47.08
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -4.83,
+        "w": 76.525,
+        "h": 47.08
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 66.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 3.832,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 10.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 13.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 16.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 19.632,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 76.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 3.832,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 10.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 13.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 16.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 19.632,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 86.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 86.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 3.832,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 10.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 13.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 16.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 19.632,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 96.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 96.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 3.832,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 10.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 13.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 16.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 19.632,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado extraíble 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, drawout, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 66.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado extraíble 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, drawout, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 76.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado extraíble 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, drawout, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 86.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 86.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_lsig_motorized_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_lsig_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado extraíble 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, drawout, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 96.651,
+        "h": 60.626
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 96.651,
+        "h": 60.626
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 48.03,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_motorized_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de aire ACB motorizado extraíble 1P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), motor-operated, drawout, 1-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de aire ACB motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.651,
+        "h": 41.43
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 66.651,
+        "h": 41.43
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_motorized_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de aire ACB motorizado extraíble 2P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), motor-operated, drawout, 2-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de aire ACB motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.651,
+        "h": 41.43
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 76.651,
+        "h": 41.43
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L",
+        "I>>",
+        "I>",
+        "N",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_motorized_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de aire ACB motorizado extraíble 3P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), motor-operated, drawout, 3-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de aire ACB motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 86.651,
+        "h": 41.43
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 86.651,
+        "h": 41.43
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_acb_motorized_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_acb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de aire ACB motorizado extraíble 4P (multifilar)",
+      "name_en": "Air circuit breaker (ACB), motor-operated, drawout, 4-pole, multi-line",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de aire ACB motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 96.651,
+        "h": 41.43
+      },
+      "viewBox": {
+        "x": -58.651,
+        "y": -4.83,
+        "w": 96.651,
+        "h": 41.43
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>",
+        "L1",
+        "I>>",
+        "I>",
+        "L2",
+        "I>>",
+        "I>",
+        "L3",
+        "I>>",
+        "I>",
+        "N",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de caja moldeada MCCB extraíble 1P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), drawout, 1-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 63.02,
+        "h": 44.32
+      },
+      "viewBox": {
+        "x": -55.02,
+        "y": -4.83,
+        "w": 63.02,
+        "h": 44.32
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "250 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "36 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "MicroLogic 5.2",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de caja moldeada MCCB extraíble 2P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), drawout, 2-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 73.021,
+        "h": 44.32
+      },
+      "viewBox": {
+        "x": -55.021,
+        "y": -4.83,
+        "w": 73.021,
+        "h": 44.32
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "N",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "250 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "36 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "MicroLogic 5.2",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de caja moldeada MCCB extraíble 3P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), drawout, 3-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 83.021,
+        "h": 44.32
+      },
+      "viewBox": {
+        "x": -55.021,
+        "y": -4.83,
+        "w": 83.021,
+        "h": 44.32
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L1",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L2",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L3",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "250 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "36 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "MicroLogic 5.2",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de caja moldeada MCCB extraíble 4P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), drawout, 4-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 93.021,
+        "h": 44.32
+      },
+      "viewBox": {
+        "x": -55.021,
+        "y": -4.83,
+        "w": 93.021,
+        "h": 44.32
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 35.0,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L1",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L2",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "L3",
+        "I>",
+        "I>>",
+        "I>>>",
+        "I>>",
+        "N",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "250 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "36 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "MicroLogic 5.2",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_motorized_drawout_1p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_drawout_1p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 1,
+      "name_es": "Interruptor de caja moldeada MCCB motorizado extraíble 1P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), motor-operated, drawout, 1-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "1P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB motorizado extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 66.635,
+        "h": 53.93
+      },
+      "viewBox": {
+        "x": -58.635,
+        "y": -4.83,
+        "w": 66.635,
+        "h": 53.93
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 47.5,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "800 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "50 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_motorized_drawout_2p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_drawout_2p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 2,
+      "name_es": "Interruptor de caja moldeada MCCB motorizado extraíble 2P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), motor-operated, drawout, 2-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "2P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB motorizado extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 76.635,
+        "h": 53.93
+      },
+      "viewBox": {
+        "x": -58.635,
+        "y": -4.83,
+        "w": 76.635,
+        "h": 53.93
+      },
+      "ports": [
+        {
+          "id": "top_L",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L",
+          "x": 0.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 10.0,
+          "y": 47.5,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "N",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "800 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "50 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L",
+          "mark": "2"
+        },
+        {
+          "port": "top_N",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "4"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_motorized_drawout_3p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_drawout_3p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 3,
+      "name_es": "Interruptor de caja moldeada MCCB motorizado extraíble 3P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), motor-operated, drawout, 3-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "3P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB motorizado extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 86.635,
+        "h": 53.93
+      },
+      "viewBox": {
+        "x": -58.635,
+        "y": -4.83,
+        "w": 86.635,
+        "h": 53.93
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 47.5,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L1",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L2",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L3",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "800 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "50 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        }
+      ]
+    },
+    {
+      "id": "lv_mccb_motorized_drawout_4p_mld",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_drawout_4p.svg",
+      "diagram_type": "MLD",
+      "sld_equivalent": "lv_mccb_motorized_drawout",
+      "mld_equivalent": null,
+      "poles": 4,
+      "name_es": "Interruptor de caja moldeada MCCB motorizado extraíble 4P (multifilar)",
+      "name_en": "Moulded-case circuit breaker (MCCB), motor-operated, drawout, 4-pole, multi-line",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "motorizado",
+        "extraible",
+        "multifilar",
+        "4P"
+      ],
+      "description": "Interruptor de caja moldeada MCCB motorizado extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "iec_60617": [],
+      "size": {
+        "w": 96.635,
+        "h": 53.93
+      },
+      "viewBox": {
+        "x": -58.635,
+        "y": -4.83,
+        "w": 96.635,
+        "h": 53.93
+      },
+      "ports": [
+        {
+          "id": "top_L1",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L2",
+          "x": 10.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_L3",
+          "x": 20.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "top_N",
+          "x": 30.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom_L1",
+          "x": 0.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L2",
+          "x": 10.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_L3",
+          "x": 20.0,
+          "y": 47.5,
+          "dir": "down"
+        },
+        {
+          "id": "bottom_N",
+          "x": 30.0,
+          "y": 47.5,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "M",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L1",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L2",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "L3",
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "N",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -24.966,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "800 A",
+          "x": -24.966,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "50 kA",
+          "x": -24.966,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -24.966,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -24.966,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "terminal_marks": [
+        {
+          "port": "top_L1",
+          "mark": "1"
+        },
+        {
+          "port": "bottom_L1",
+          "mark": "2"
+        },
+        {
+          "port": "top_L2",
+          "mark": "3"
+        },
+        {
+          "port": "bottom_L2",
+          "mark": "4"
+        },
+        {
+          "port": "top_L3",
+          "mark": "5"
+        },
+        {
+          "port": "bottom_L3",
+          "mark": "6"
+        },
+        {
+          "port": "top_N",
+          "mark": "7"
+        },
+        {
+          "port": "bottom_N",
+          "mark": "8"
         }
       ]
     }

@@ -53,14 +53,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 35.57,
-        "h": 35.0
+        "w": 78.56,
+        "h": 41.1
       },
       "viewBox": {
         "x": -68.08,
-        "y": -1.6,
-        "w": 77.56,
-        "h": 38.2
+        "y": -4.5,
+        "w": 78.56,
+        "h": 41.1
       },
       "ports": [
         {
@@ -215,14 +215,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 31.93,
-        "h": 36.25
+        "w": 50.5,
+        "h": 43.85
       },
       "viewBox": {
-        "x": -25.87,
+        "x": -38.525,
         "y": -1.6,
-        "w": 36.85,
-        "h": 38.85
+        "w": 50.5,
+        "h": 43.85
       },
       "ports": [
         {
@@ -339,14 +339,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 26.91,
-        "h": 22.5
+        "w": 71.76,
+        "h": 28.6
       },
       "viewBox": {
         "x": -63.76,
-        "y": -1.6,
-        "w": 66.4,
-        "h": 25.7
+        "y": -4.5,
+        "w": 71.76,
+        "h": 28.6
       },
       "ports": [
         {
@@ -416,14 +416,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 26.23,
-        "h": 22.5
+        "w": 66.77,
+        "h": 33.6
       },
       "viewBox": {
         "x": -58.77,
-        "y": -1.6,
-        "w": 63.21,
-        "h": 25.7
+        "y": -4.5,
+        "w": 66.77,
+        "h": 33.6
       },
       "ports": [
         {
@@ -484,14 +484,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 20.88,
-        "h": 17.88
+        "w": 41.922,
+        "h": 25.48
       },
       "viewBox": {
-        "x": -20.38,
+        "x": -33.01,
         "y": -1.6,
-        "w": 28.29,
-        "h": 20.48
+        "w": 41.922,
+        "h": 25.48
       },
       "ports": [
         {
@@ -531,14 +531,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 13.26,
-        "h": 37.5
+        "w": 39.025,
+        "h": 45.7
       },
       "viewBox": {
-        "x": -18.37,
+        "x": -31.025,
         "y": -1.6,
-        "w": 20.67,
-        "h": 40.7
+        "w": 39.025,
+        "h": 45.7
       },
       "ports": [
         {
@@ -590,14 +590,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 22.25,
-        "h": 40.0
+        "w": 36.647,
+        "h": 48.2
       },
       "viewBox": {
-        "x": -20.6,
+        "x": -28.647,
         "y": -1.6,
-        "w": 24.25,
-        "h": 43.2
+        "w": 36.647,
+        "h": 48.2
       },
       "ports": [
         {
@@ -648,14 +648,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 6.26,
-        "h": 11.27
+        "w": 37.377,
+        "h": 18.27
       },
       "viewBox": {
-        "x": -16.75,
+        "x": -29.377,
         "y": -1.0,
-        "w": 20.64,
-        "h": 13.27
+        "w": 37.377,
+        "h": 18.27
       },
       "ports": [],
       "fixed_texts": [],
@@ -686,14 +686,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 20.09,
-        "h": 15.0
+        "w": 44.213,
+        "h": 23.2
       },
       "viewBox": {
-        "x": -16.51,
+        "x": -29.713,
         "y": -1.6,
-        "w": 28.11,
-        "h": 18.2
+        "w": 44.213,
+        "h": 23.2
       },
       "ports": [
         {
@@ -710,7 +710,7 @@
         },
         {
           "id": "secondary",
-          "x": 10.0,
+          "x": 12.5,
           "y": 7.5,
           "dir": "right"
         }
@@ -745,26 +745,26 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 24.46,
-        "h": 8.04
+        "w": 48.0,
+        "h": 24.5
       },
       "viewBox": {
-        "x": -23.37,
+        "x": -36.0,
         "y": -3.45,
-        "w": 32.47,
-        "h": 10.04
+        "w": 48.0,
+        "h": 24.5
       },
       "ports": [
         {
           "id": "primary",
           "x": -10.0,
-          "y": 2.5,
+          "y": 5.0,
           "dir": "left"
         },
         {
           "id": "secondary",
-          "x": 7.5,
-          "y": 2.5,
+          "x": 10.0,
+          "y": 5.0,
           "dir": "right"
         }
       ],
@@ -797,14 +797,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 16.96,
-        "h": 12.5
+        "w": 39.142,
+        "h": 19.5
       },
       "viewBox": {
-        "x": -18.52,
+        "x": -31.142,
         "y": -1.0,
-        "w": 24.38,
-        "h": 14.5
+        "w": 39.142,
+        "h": 19.5
       },
       "ports": [],
       "fixed_texts": [
@@ -838,14 +838,14 @@
       "source": "Lámina 3 (108-2026-SOXXXXXX-E-DU-003)",
       "notes": null,
       "size": {
-        "w": 33.8,
-        "h": 32.5
+        "w": 64.28,
+        "h": 43.6
       },
       "viewBox": {
         "x": -49.78,
-        "y": -1.6,
-        "w": 63.28,
-        "h": 35.7
+        "y": -4.5,
+        "w": 64.28,
+        "h": 43.6
       },
       "ports": [
         {
@@ -916,14 +916,14 @@
       "source": "Lámina 3 (108-2026-SOXXXXXX-E-DU-003)",
       "notes": null,
       "size": {
-        "w": 18.83,
-        "h": 32.5
+        "w": 67.78,
+        "h": 43.6
       },
       "viewBox": {
         "x": -59.78,
-        "y": -1.6,
-        "w": 61.38,
-        "h": 35.7
+        "y": -4.5,
+        "w": 67.78,
+        "h": 43.6
       },
       "ports": [
         {
@@ -993,14 +993,14 @@
       "source": "Lámina 3 (108-2026-SOXXXXXX-E-DU-003)",
       "notes": null,
       "size": {
-        "w": 84.5,
-        "h": 21.75
+        "w": 95.559,
+        "h": 28.75
       },
       "viewBox": {
-        "x": -52.27,
+        "x": -60.324,
         "y": -1.0,
-        "w": 86.5,
-        "h": 23.75
+        "w": 95.559,
+        "h": 28.75
       },
       "ports": [],
       "fixed_texts": [
@@ -1032,14 +1032,14 @@
       "source": "Lámina 3 (108-2026-SOXXXXXX-E-DU-003)",
       "notes": "Recorte del plano de servicios auxiliares; la geometría exacta del contacto es la del original.",
       "size": {
-        "w": 28.28,
-        "h": 12.5
+        "w": 55.304,
+        "h": 20.7
       },
       "viewBox": {
-        "x": -34.69,
+        "x": -47.304,
         "y": -1.6,
-        "w": 36.29,
-        "h": 15.7
+        "w": 55.304,
+        "h": 20.7
       },
       "ports": [
         {
@@ -1084,14 +1084,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 2.5,
-        "h": 5.0
+        "w": 35.25,
+        "h": 20.5
       },
       "viewBox": {
-        "x": -14.64,
+        "x": -27.25,
         "y": -1.0,
-        "w": 16.89,
-        "h": 7.0
+        "w": 35.25,
+        "h": 20.5
       },
       "ports": [],
       "fixed_texts": [],
@@ -1121,14 +1121,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 2.5,
-        "h": 5.0
+        "w": 35.235,
+        "h": 20.5
       },
       "viewBox": {
-        "x": -14.6,
+        "x": -27.235,
         "y": -1.0,
-        "w": 16.86,
-        "h": 7.0
+        "w": 35.235,
+        "h": 20.5
       },
       "ports": [],
       "fixed_texts": [],
@@ -1158,14 +1158,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 28.96,
-        "h": 15.0
+        "w": 38.412,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -29.86,
+        "x": -30.412,
         "y": -1.6,
-        "w": 31.46,
-        "h": 18.2
+        "w": 38.412,
+        "h": 18.1
       },
       "ports": [
         {
@@ -1217,14 +1217,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 11.86,
-        "h": 12.5
+        "w": 36.451,
+        "h": 20.7
       },
       "viewBox": {
-        "x": -15.82,
+        "x": -28.451,
         "y": -1.6,
-        "w": 19.27,
-        "h": 15.7
+        "w": 36.451,
+        "h": 20.7
       },
       "ports": [
         {
@@ -1276,14 +1276,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 10.78,
-        "h": 14.98
+        "w": 59.788,
+        "h": 26.744
       },
       "viewBox": {
-        "x": -6.39,
+        "x": -31.0,
         "y": -1.6,
-        "w": 35.57,
-        "h": 23.95
+        "w": 59.788,
+        "h": 26.744
       },
       "ports": [
         {
@@ -1341,14 +1341,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 20.24,
-        "h": 14.98
+        "w": 38.608,
+        "h": 20.374
       },
       "viewBox": {
-        "x": -18.76,
+        "x": -31.0,
         "y": -1.6,
-        "w": 25.15,
-        "h": 17.58
+        "w": 38.608,
+        "h": 20.374
       },
       "ports": [
         {
@@ -1389,14 +1389,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 20.59,
-        "h": 22.5
+        "w": 52.316,
+        "h": 33.6
       },
       "viewBox": {
-        "x": -16.62,
-        "y": -1.6,
-        "w": 33.23,
-        "h": 25.7
+        "x": -36.0,
+        "y": -4.5,
+        "w": 52.316,
+        "h": 33.6
       },
       "ports": [
         {
@@ -1441,14 +1441,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 24.6,
-        "h": 22.5
+        "w": 45.5,
+        "h": 30.7
       },
       "viewBox": {
-        "x": -22.19,
+        "x": -34.751,
         "y": -1.6,
-        "w": 32.02,
-        "h": 25.7
+        "w": 45.5,
+        "h": 30.7
       },
       "ports": [
         {
@@ -1493,14 +1493,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 31.03,
-        "h": 22.5
+        "w": 50.5,
+        "h": 30.7
       },
       "viewBox": {
-        "x": -24.16,
+        "x": -37.25,
         "y": -1.6,
-        "w": 35.94,
-        "h": 25.7
+        "w": 50.5,
+        "h": 30.7
       },
       "ports": [
         {
@@ -1546,14 +1546,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 18.28,
-        "h": 12.5
+        "w": 37.088,
+        "h": 20.7
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -29.75,
         "y": -1.6,
-        "w": 23.2,
-        "h": 15.7
+        "w": 37.088,
+        "h": 20.7
       },
       "ports": [
         {
@@ -1598,14 +1598,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 13.33,
-        "h": 17.5
+        "w": 38.412,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.78,
+        "x": -30.412,
         "y": -1.6,
-        "w": 20.74,
-        "h": 20.7
+        "w": 38.412,
+        "h": 18.1
       },
       "ports": [
         {
@@ -1617,7 +1617,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -1656,14 +1656,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 15.38,
-        "h": 15.0
+        "w": 35.716,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -15.09,
+        "x": -27.716,
         "y": -1.6,
-        "w": 17.8,
-        "h": 18.2
+        "w": 35.716,
+        "h": 18.1
       },
       "ports": [
         {
@@ -1714,14 +1714,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 22.74,
-        "h": 14.71
+        "w": 38.608,
+        "h": 20.104
       },
       "viewBox": {
-        "x": -18.76,
+        "x": -31.0,
         "y": -1.6,
-        "w": 25.15,
-        "h": 17.31
+        "w": 38.608,
+        "h": 20.104
       },
       "ports": [
         {
@@ -1761,14 +1761,14 @@
       "source": "Dibujo propio (misma simbología de las láminas)",
       "notes": null,
       "size": {
-        "w": 21.22,
-        "h": 7.7
+        "w": 39.882,
+        "h": 20.7
       },
       "viewBox": {
-        "x": -19.25,
+        "x": -31.882,
         "y": -3.7,
-        "w": 26.13,
-        "h": 10.3
+        "w": 39.882,
+        "h": 20.7
       },
       "ports": [
         {
@@ -1822,14 +1822,14 @@
         "S00327"
       ],
       "size": {
-        "w": 33.81,
-        "h": 32.5
+        "w": 66.37,
+        "h": 40.7
       },
       "viewBox": {
         "x": -51.87,
         "y": -1.6,
-        "w": 65.37,
-        "h": 35.7
+        "w": 66.37,
+        "h": 40.7
       },
       "ports": [
         {
@@ -1920,14 +1920,14 @@
         "S00333"
       ],
       "size": {
-        "w": 31.39,
-        "h": 25.0
+        "w": 53.959,
+        "h": 33.2
       },
       "viewBox": {
         "x": -34.93,
         "y": -1.6,
-        "w": 52.96,
-        "h": 28.2
+        "w": 53.959,
+        "h": 33.2
       },
       "ports": [
         {
@@ -2015,26 +2015,26 @@
         "S00342"
       ],
       "size": {
-        "w": 45.68,
-        "h": 15.88
+        "w": 64.105,
+        "h": 22.637
       },
       "viewBox": {
-        "x": -45.83,
+        "x": -45.218,
         "y": -1.6,
-        "w": 64.93,
-        "h": 23.52
+        "w": 64.105,
+        "h": 22.637
       },
       "ports": [
         {
           "id": "top",
-          "x": 0.0,
+          "x": 0.074,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "trip",
-          "x": 17.5,
-          "y": 10.0,
+          "x": 16.887,
+          "y": 9.444,
           "dir": "right"
         }
       ],
@@ -2101,14 +2101,14 @@
         "S00933"
       ],
       "size": {
-        "w": 19.46,
-        "h": 15.44
+        "w": 49.27,
+        "h": 31.429
       },
       "viewBox": {
         "x": -41.27,
         "y": -1.6,
-        "w": 47.27,
-        "h": 26.87
+        "w": 49.27,
+        "h": 31.429
       },
       "ports": [
         {
@@ -2182,14 +2182,14 @@
         "S01426"
       ],
       "size": {
-        "w": 13.28,
-        "h": 11.77
+        "w": 43.616,
+        "h": 27.095
       },
       "viewBox": {
-        "x": -34.44,
+        "x": -35.028,
         "y": -1.6,
-        "w": 39.85,
-        "h": 21.36
+        "w": 43.616,
+        "h": 27.095
       },
       "ports": [
         {
@@ -2255,14 +2255,14 @@
         "S00271"
       ],
       "size": {
-        "w": 13.28,
-        "h": 16.18
+        "w": 43.616,
+        "h": 20.104
       },
       "viewBox": {
-        "x": -34.44,
+        "x": -35.028,
         "y": -1.6,
-        "w": 39.85,
-        "h": 18.78
+        "w": 43.616,
+        "h": 20.104
       },
       "ports": [
         {
@@ -2318,14 +2318,14 @@
         "S00965"
       ],
       "size": {
-        "w": 11.32,
-        "h": 12.5
+        "w": 40.569,
+        "h": 28.62
       },
       "viewBox": {
-        "x": -25.13,
+        "x": -31.0,
         "y": -1.6,
-        "w": 29.56,
-        "h": 21.12
+        "w": 40.569,
+        "h": 28.62
       },
       "ports": [
         {
@@ -2337,7 +2337,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 12.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -2396,13 +2396,13 @@
         "S00295"
       ],
       "size": {
-        "w": 35.34,
-        "h": 28.83
+        "w": 62.071,
+        "h": 31.43
       },
       "viewBox": {
         "x": -48.11,
         "y": -4.83,
-        "w": 61.07,
+        "w": 62.071,
         "h": 31.43
       },
       "ports": [
@@ -2492,14 +2492,14 @@
         "S00910"
       ],
       "size": {
-        "w": 12.94,
-        "h": 11.77
+        "w": 41.956,
+        "h": 36.125
       },
       "viewBox": {
-        "x": -32.78,
+        "x": -33.368,
         "y": -1.6,
-        "w": 38.8,
-        "h": 30.39
+        "w": 41.956,
+        "h": 36.125
       },
       "ports": [
         {
@@ -2574,14 +2574,14 @@
         "S00910"
       ],
       "size": {
-        "w": 17.24,
-        "h": 11.77
+        "w": 41.956,
+        "h": 36.125
       },
       "viewBox": {
-        "x": -32.78,
+        "x": -33.368,
         "y": -1.6,
-        "w": 38.8,
-        "h": 30.39
+        "w": 41.956,
+        "h": 36.125
       },
       "ports": [
         {
@@ -2656,14 +2656,14 @@
         "S00910"
       ],
       "size": {
-        "w": 15.09,
-        "h": 11.77
+        "w": 41.956,
+        "h": 27.305
       },
       "viewBox": {
-        "x": -32.78,
+        "x": -33.368,
         "y": -1.6,
-        "w": 38.8,
-        "h": 21.57
+        "w": 41.956,
+        "h": 27.305
       },
       "ports": [
         {
@@ -2720,14 +2720,14 @@
         "S00910"
       ],
       "size": {
-        "w": 19.39,
-        "h": 11.77
+        "w": 41.956,
+        "h": 27.305
       },
       "viewBox": {
-        "x": -32.78,
+        "x": -33.368,
         "y": -1.6,
-        "w": 38.8,
-        "h": 21.57
+        "w": 41.956,
+        "h": 27.305
       },
       "ports": [
         {
@@ -2785,14 +2785,14 @@
         "S00321"
       ],
       "size": {
-        "w": 13.65,
-        "h": 25.0
+        "w": 39.0,
+        "h": 42.21
       },
       "viewBox": {
-        "x": -21.46,
+        "x": -31.0,
         "y": -1.6,
-        "w": 28.06,
-        "h": 37.21
+        "w": 39.0,
+        "h": 42.21
       },
       "ports": [
         {
@@ -2862,14 +2862,14 @@
         "S00328"
       ],
       "size": {
-        "w": 18.3,
-        "h": 15.0
+        "w": 40.5,
+        "h": 34.71
       },
       "viewBox": {
-        "x": -21.46,
+        "x": -31.0,
         "y": -1.6,
-        "w": 30.56,
-        "h": 29.71
+        "w": 40.5,
+        "h": 34.71
       },
       "ports": [
         {
@@ -2947,14 +2947,14 @@
         "S00310"
       ],
       "size": {
-        "w": 9.65,
-        "h": 17.0
+        "w": 35.09,
+        "h": 37.21
       },
       "viewBox": {
         "x": -27.09,
         "y": -1.6,
-        "w": 31.69,
-        "h": 31.71
+        "w": 35.09,
+        "h": 37.21
       },
       "ports": [
         {
@@ -2966,7 +2966,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.0,
+          "y": 17.5,
           "dir": "down"
         }
       ],
@@ -3027,14 +3027,14 @@
         "S00257"
       ],
       "size": {
-        "w": 18.86,
-        "h": 12.5
+        "w": 38.0,
+        "h": 36.62
       },
       "viewBox": {
-        "x": -26.19,
+        "x": -29.75,
         "y": -1.6,
-        "w": 34.69,
-        "h": 31.62
+        "w": 38.0,
+        "h": 36.62
       },
       "ports": [
         {
@@ -3114,14 +3114,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 12.28,
-        "h": 15.24
+        "w": 39.108,
+        "h": 27.514
       },
       "viewBox": {
-        "x": -13.79,
+        "x": -31.0,
         "y": -1.6,
-        "w": 22.29,
-        "h": 24.72
+        "w": 39.108,
+        "h": 27.514
       },
       "ports": [
         {
@@ -3189,14 +3189,14 @@
         "S00449"
       ],
       "size": {
-        "w": 20.11,
-        "h": 17.5
+        "w": 39.0,
+        "h": 32.87
       },
       "viewBox": {
-        "x": -29.09,
+        "x": -31.0,
         "y": -1.6,
-        "w": 35.69,
-        "h": 27.87
+        "w": 39.0,
+        "h": 32.87
       },
       "ports": [
         {
@@ -3277,14 +3277,14 @@
         "S00201"
       ],
       "size": {
-        "w": 12.64,
-        "h": 17.5
+        "w": 37.922,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.52,
+        "x": -29.922,
         "y": -1.6,
-        "w": 21.08,
-        "h": 20.7
+        "w": 37.922,
+        "h": 18.1
       },
       "ports": [
         {
@@ -3296,7 +3296,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -3337,14 +3337,14 @@
         "S00202"
       ],
       "size": {
-        "w": 12.64,
-        "h": 17.5
+        "w": 37.922,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.52,
+        "x": -29.922,
         "y": -1.6,
-        "w": 21.08,
-        "h": 20.7
+        "w": 37.922,
+        "h": 18.1
       },
       "ports": [
         {
@@ -3356,7 +3356,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -3399,14 +3399,14 @@
         "S00085"
       ],
       "size": {
-        "w": 12.64,
-        "h": 17.5
+        "w": 38.412,
+        "h": 25.7
       },
       "viewBox": {
-        "x": -28.97,
+        "x": -30.412,
         "y": -1.6,
-        "w": 32.53,
-        "h": 20.7
+        "w": 38.412,
+        "h": 25.7
       },
       "ports": [
         {
@@ -3467,14 +3467,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 8.65,
-        "h": 15.0
+        "w": 37.0,
+        "h": 23.2
       },
       "viewBox": {
-        "x": -16.14,
+        "x": -29.0,
         "y": -1.6,
-        "w": 19.24,
-        "h": 18.2
+        "w": 37.0,
+        "h": 23.2
       },
       "ports": [
         {
@@ -3526,14 +3526,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 30.0,
-        "h": 12.5
+        "w": 58.0,
+        "h": 23.1
       },
       "viewBox": {
-        "x": -16.6,
+        "x": -41.0,
         "y": -11.1,
-        "w": 33.2,
-        "h": 15.7
+        "w": 58.0,
+        "h": 23.1
       },
       "ports": [
         {
@@ -3589,14 +3589,14 @@
         "S00180"
       ],
       "size": {
-        "w": 12.26,
-        "h": 17.5
+        "w": 37.922,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.14,
+        "x": -29.922,
         "y": -1.6,
-        "w": 20.7,
-        "h": 20.7
+        "w": 37.922,
+        "h": 18.1
       },
       "ports": [
         {
@@ -3608,7 +3608,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -3652,14 +3652,14 @@
         "S00182"
       ],
       "size": {
-        "w": 12.26,
-        "h": 17.5
+        "w": 37.922,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.14,
+        "x": -29.922,
         "y": -1.6,
-        "w": 20.7,
-        "h": 20.7
+        "w": 37.922,
+        "h": 18.1
       },
       "ports": [
         {
@@ -3671,7 +3671,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -3714,14 +3714,14 @@
         "S00869"
       ],
       "size": {
-        "w": 9.5,
-        "h": 10.5
+        "w": 40.0,
+        "h": 26.71
       },
       "viewBox": {
-        "x": -13.28,
+        "x": -31.0,
         "y": -1.6,
-        "w": 20.38,
-        "h": 19.71
+        "w": 40.0,
+        "h": 26.71
       },
       "ports": [
         {
@@ -3788,14 +3788,14 @@
         "S00785"
       ],
       "size": {
-        "w": 13.8,
-        "h": 12.5
+        "w": 40.0,
+        "h": 27.21
       },
       "viewBox": {
-        "x": -26.19,
+        "x": -31.0,
         "y": -1.6,
-        "w": 31.79,
-        "h": 22.21
+        "w": 40.0,
+        "h": 27.21
       },
       "ports": [
         {
@@ -3858,14 +3858,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 11.65,
-        "h": 10.5
+        "w": 40.0,
+        "h": 28.21
       },
       "viewBox": {
-        "x": -28.09,
+        "x": -31.0,
         "y": -1.6,
-        "w": 33.69,
-        "h": 21.21
+        "w": 40.0,
+        "h": 28.21
       },
       "ports": [
         {
@@ -3932,14 +3932,14 @@
         "S00842"
       ],
       "size": {
-        "w": 9.5,
-        "h": 10.5
+        "w": 38.0,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -17.09,
+        "x": -30.0,
         "y": -1.6,
-        "w": 24.19,
-        "h": 19.71
+        "w": 38.0,
+        "h": 18.1
       },
       "ports": [
         {
@@ -4006,14 +4006,14 @@
         "S00323"
       ],
       "size": {
-        "w": 15.8,
-        "h": 25.0
+        "w": 39.0,
+        "h": 42.21
       },
       "viewBox": {
-        "x": -21.46,
+        "x": -31.0,
         "y": -1.6,
-        "w": 28.06,
-        "h": 37.21
+        "w": 39.0,
+        "h": 42.21
       },
       "ports": [
         {
@@ -4087,14 +4087,14 @@
         "S00451"
       ],
       "size": {
-        "w": 18.95,
-        "h": 17.5
+        "w": 38.5,
+        "h": 32.87
       },
       "viewBox": {
-        "x": -29.59,
+        "x": -31.0,
         "y": -1.6,
-        "w": 36.69,
-        "h": 27.87
+        "w": 38.5,
+        "h": 32.87
       },
       "ports": [
         {
@@ -4175,26 +4175,26 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 19.8,
-        "h": 13.0
+        "w": 43.0,
+        "h": 30.52
       },
       "viewBox": {
-        "x": -28.19,
+        "x": -32.5,
         "y": -1.6,
-        "w": 37.79,
-        "h": 26.02
+        "w": 43.0,
+        "h": 30.52
       },
       "ports": [
         {
           "id": "top",
-          "x": 0.0,
+          "x": -0.071,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom",
-          "x": 0.0,
-          "y": 13.0,
+          "x": -0.071,
+          "y": 12.5,
           "dir": "down"
         }
       ],
@@ -4263,14 +4263,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 13.26,
-        "h": 17.5
+        "w": 38.412,
+        "h": 18.1
       },
       "viewBox": {
-        "x": -25.78,
+        "x": -30.412,
         "y": -1.6,
-        "w": 29.34,
-        "h": 21.71
+        "w": 38.412,
+        "h": 18.1
       },
       "ports": [
         {
@@ -4282,7 +4282,7 @@
         {
           "id": "bottom",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -4342,14 +4342,14 @@
       "notes": "Barra horizontal PE con bornes de conexión. Puertos 'top_*' son las entradas de conductores PE.",
       "iec_60617": [],
       "size": {
-        "w": 31.3,
-        "h": 10.5
+        "w": 58.91,
+        "h": 18.7
       },
       "viewBox": {
-        "x": -25.14,
+        "x": -38.5,
         "y": 0.9,
-        "w": 45.55,
-        "h": 13.7
+        "w": 58.91,
+        "h": 18.7
       },
       "ports": [
         {
@@ -4412,14 +4412,14 @@
         "S00332"
       ],
       "size": {
-        "w": 13.15,
-        "h": 25.0
+        "w": 38.5,
+        "h": 33.2
       },
       "viewBox": {
-        "x": -25.28,
+        "x": -30.5,
         "y": -1.6,
-        "w": 31.38,
-        "h": 28.2
+        "w": 38.5,
+        "h": 33.2
       },
       "ports": [
         {
@@ -4482,14 +4482,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 23.95,
-        "h": 20.0
+        "w": 49.73,
+        "h": 31.62
       },
       "viewBox": {
         "x": -39.73,
         "y": -1.6,
-        "w": 49.33,
-        "h": 26.62
+        "w": 49.73,
+        "h": 31.62
       },
       "ports": [
         {
@@ -4570,14 +4570,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 28.11,
-        "h": 23.0
+        "w": 49.82,
+        "h": 31.92
       },
       "viewBox": {
         "x": -38.82,
         "y": -1.6,
-        "w": 49.42,
-        "h": 26.92
+        "w": 49.82,
+        "h": 31.92
       },
       "ports": [
         {
@@ -4659,14 +4659,14 @@
         "S00459"
       ],
       "size": {
-        "w": 24.9,
-        "h": 17.65
+        "w": 45.5,
+        "h": 40.113
       },
       "viewBox": {
-        "x": -28.4,
+        "x": -34.75,
         "y": -1.6,
-        "w": 38.82,
-        "h": 35.26
+        "w": 45.5,
+        "h": 40.113
       },
       "ports": [
         {
@@ -4742,14 +4742,14 @@
         "S00335"
       ],
       "size": {
-        "w": 26.86,
-        "h": 25.52
+        "w": 47.608,
+        "h": 37.89
       },
       "viewBox": {
-        "x": -29.38,
+        "x": -35.804,
         "y": -4.62,
-        "w": 40.78,
-        "h": 32.89
+        "w": 47.608,
+        "h": 37.89
       },
       "ports": [
         {
@@ -4831,14 +4831,14 @@
         "S00513"
       ],
       "size": {
-        "w": 24.9,
-        "h": 22.5
+        "w": 45.5,
+        "h": 34.87
       },
       "viewBox": {
-        "x": -24.58,
+        "x": -34.75,
         "y": -1.6,
-        "w": 35.01,
-        "h": 29.87
+        "w": 45.5,
+        "h": 34.87
       },
       "ports": [
         {
@@ -4909,14 +4909,14 @@
       "notes": null,
       "iec_60617": [],
       "size": {
-        "w": 22.75,
-        "h": 17.65
+        "w": 45.5,
+        "h": 39.133
       },
       "viewBox": {
-        "x": -28.4,
+        "x": -34.75,
         "y": -1.6,
-        "w": 38.82,
-        "h": 34.28
+        "w": 45.5,
+        "h": 39.133
       },
       "ports": [
         {
@@ -4967,6 +4967,984 @@
           "anchor": "end",
           "size": 3.47
         }
+      ]
+    },
+    {
+      "id": "lv_acb_drawout",
+      "file": "291_E_LV_SLD_IEC60617_acb_drawout.svg",
+      "name_es": "Interruptor de aire ACB extraíble",
+      "name_en": "Air circuit breaker (ACB), drawout",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "extraible"
+      ],
+      "description": "Interruptor de aire ACB extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 50.5,
+        "h": 43.85
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -1.6,
+        "w": 50.5,
+        "h": 43.85
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_drawout_1p_mld",
+        "lv_acb_drawout_2p_mld",
+        "lv_acb_drawout_3p_mld",
+        "lv_acb_drawout_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_acb_lsig",
+      "file": "291_E_LV_SLD_IEC60617_acb_lsig.svg",
+      "name_es": "Interruptor de aire ACB con unidad LSIG",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 50.5,
+        "h": 43.85
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -1.6,
+        "w": 50.5,
+        "h": 43.85
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 3.47273,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 10.2727,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 13.2727,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 16.2727,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 19.2727,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_lsig_1p_mld",
+        "lv_acb_lsig_2p_mld",
+        "lv_acb_lsig_3p_mld",
+        "lv_acb_lsig_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_drawout",
+      "file": "291_E_LV_SLD_IEC60617_acb_lsig_drawout.svg",
+      "name_es": "Interruptor de aire ACB con unidad LSIG extraíble",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, drawout",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "extraible"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 50.5,
+        "h": 43.85
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -1.6,
+        "w": 50.5,
+        "h": 43.85
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_lsig_drawout_1p_mld",
+        "lv_acb_lsig_drawout_2p_mld",
+        "lv_acb_lsig_drawout_3p_mld",
+        "lv_acb_lsig_drawout_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized",
+      "file": "291_E_LV_SLD_IEC60617_acb_lsig_motorized.svg",
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 78.56,
+        "h": 53.8
+      },
+      "viewBox": {
+        "x": -68.08,
+        "y": -4.5,
+        "w": 78.56,
+        "h": 53.8
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "M",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -26.485,
+          "y": 3.832,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -26.485,
+          "y": 10.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -26.485,
+          "y": 13.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -26.485,
+          "y": 16.632,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -26.485,
+          "y": 19.632,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_lsig_motorized_1p_mld",
+        "lv_acb_lsig_motorized_2p_mld",
+        "lv_acb_lsig_motorized_3p_mld",
+        "lv_acb_lsig_motorized_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_acb_lsig_motorized_drawout",
+      "file": "291_E_LV_SLD_IEC60617_acb_lsig_motorized_drawout.svg",
+      "name_es": "Interruptor de aire ACB con unidad LSIG motorizado extraíble",
+      "name_en": "Air circuit breaker (ACB), with LSIG trip unit, motor-operated, drawout",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "LSIG",
+        "motorizado",
+        "extraible"
+      ],
+      "description": "Interruptor de aire ACB con unidad LSIG motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 78.56,
+        "h": 53.8
+      },
+      "viewBox": {
+        "x": -68.08,
+        "y": -4.5,
+        "w": 78.56,
+        "h": 53.8
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 48.03,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "M",
+        "I>>>",
+        "I>>",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -26.485,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -26.485,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -26.485,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -26.485,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -26.485,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_lsig_motorized_drawout_1p_mld",
+        "lv_acb_lsig_motorized_drawout_2p_mld",
+        "lv_acb_lsig_motorized_drawout_3p_mld",
+        "lv_acb_lsig_motorized_drawout_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_acb_motorized_drawout",
+      "file": "291_E_LV_SLD_IEC60617_acb_motorized_drawout.svg",
+      "name_es": "Interruptor de aire ACB motorizado extraíble",
+      "name_en": "Air circuit breaker (ACB), motor-operated, drawout",
+      "tags": [
+        "ACB",
+        "interruptor",
+        "motorizado",
+        "extraible"
+      ],
+      "description": "Interruptor de aire ACB motorizado extraíble: símbolo generado por script a partir de la familia acb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 78.56,
+        "h": 41.1
+      },
+      "viewBox": {
+        "x": -68.08,
+        "y": -4.5,
+        "w": 78.56,
+        "h": 41.1
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "M",
+        "ACB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -26.485,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "2000 A",
+          "x": -26.485,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "66 kA",
+          "x": -26.485,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -26.485,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -26.485,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_acb_motorized_drawout_1p_mld",
+        "lv_acb_motorized_drawout_2p_mld",
+        "lv_acb_motorized_drawout_3p_mld",
+        "lv_acb_motorized_drawout_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_cable_run",
+      "file": "291_E_LV_SLD_IEC60617_cable_run.svg",
+      "name_es": "Tramo de cable con identificación",
+      "name_en": "Cable run with identification",
+      "description": "Tramo de cable con identificación (símbolo 0.3.0). Generado por script; falta revisión.",
+      "tags": [
+        "cable"
+      ],
+      "origin": "generated",
+      "source": "Símbolo 0.3.0",
+      "notes": "Entrada agregada en 0.4.15 (faltaba en el catálogo).",
+      "size": {
+        "w": 16.0,
+        "h": 67.0
+      },
+      "viewBox": {
+        "x": -8.0,
+        "y": -1.0,
+        "w": 16.0,
+        "h": 67.0
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 60.07,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "LD-02 / 28 m",
+          "x": 0.0,
+          "y": 0.0,
+          "anchor": "start",
+          "size": 2.5
+        },
+        {
+          "key": "cable_spec",
+          "placeholder": "{cable_spec}",
+          "example": "3x2.5/2.5 mm² + PE 2.5 mm²",
+          "x": 0.0,
+          "y": 0.0,
+          "anchor": "start",
+          "size": 1.7
+        },
+        {
+          "key": "cable_insulation",
+          "placeholder": "{cable_insulation}",
+          "example": "XLPE/Cu IRAM 2178",
+          "x": 0.0,
+          "y": 0.0,
+          "anchor": "start",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": 0.0,
+          "y": 64.0,
+          "anchor": "middle",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": []
+    },
+    {
+      "id": "lv_mccb_drawout",
+      "file": "291_E_LV_SLD_IEC60617_mccb_drawout.svg",
+      "name_es": "Interruptor de caja moldeada MCCB extraíble",
+      "name_en": "Moulded-case circuit breaker (MCCB), drawout",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "extraible"
+      ],
+      "description": "Interruptor de caja moldeada MCCB extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 50.5,
+        "h": 43.85
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -1.6,
+        "w": 50.5,
+        "h": 43.85
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_mccb_drawout_1p_mld",
+        "lv_mccb_drawout_2p_mld",
+        "lv_mccb_drawout_3p_mld",
+        "lv_mccb_drawout_4p_mld"
+      ]
+    },
+    {
+      "id": "lv_mccb_lsig_drawout",
+      "file": "291_E_LV_SLD_IEC60617_mccb_lsig_drawout.svg",
+      "name_es": "Interruptor de caja moldeada MCCB con unidad LSIG extraíble",
+      "name_en": "Moulded-case circuit breaker (MCCB), with LSIG trip unit, drawout",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "LSIG",
+        "extraible"
+      ],
+      "description": "Interruptor de caja moldeada MCCB con unidad LSIG extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 50.5,
+        "h": 43.85
+      },
+      "viewBox": {
+        "x": -38.525,
+        "y": -1.6,
+        "w": 50.5,
+        "h": 43.85
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 35.0,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "-Q1",
+          "x": -14.525,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "63 A",
+          "x": -14.525,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "10 kA",
+          "x": -14.525,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -14.525,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Fabricante",
+          "x": -14.525,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": []
+    },
+    {
+      "id": "lv_mccb_motorized_drawout",
+      "file": "291_E_LV_SLD_IEC60617_mccb_motorized_drawout.svg",
+      "name_es": "Interruptor de caja moldeada MCCB motorizado extraíble",
+      "name_en": "Moulded-case circuit breaker (MCCB), motor-operated, drawout",
+      "tags": [
+        "MCCB",
+        "interruptor",
+        "motorizado",
+        "extraible"
+      ],
+      "description": "Interruptor de caja moldeada MCCB motorizado extraíble: símbolo generado por script a partir de la familia mccb. Falta revisión normativa.",
+      "origin": "generated",
+      "source": "Generado con tools/build_entries (familia SLD/MLD existente)",
+      "notes": "Entrada generada automáticamente. Revisar referencia IEC 60617 y textos.",
+      "size": {
+        "w": 79.442,
+        "h": 53.6
+      },
+      "viewBox": {
+        "x": -68.03,
+        "y": -4.5,
+        "w": 79.442,
+        "h": 53.6
+      },
+      "ports": [
+        {
+          "id": "top",
+          "x": 0.0,
+          "y": 0.0,
+          "dir": "up"
+        },
+        {
+          "id": "bottom",
+          "x": 0.0,
+          "y": 47.5,
+          "dir": "down"
+        }
+      ],
+      "fixed_texts": [
+        "I>>",
+        "I>>>",
+        "I>",
+        "I>>",
+        "M",
+        "MCCB"
+      ],
+      "label_slots": [
+        {
+          "key": "tag",
+          "placeholder": "{tag}",
+          "example": "TAG-01",
+          "x": -26.451,
+          "y": 2.2,
+          "anchor": "end",
+          "size": 2.5
+        },
+        {
+          "key": "rated_current",
+          "placeholder": "{rated_current}",
+          "example": "800 A",
+          "x": -26.451,
+          "y": 9.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "breaking_capacity",
+          "placeholder": "{breaking_capacity}",
+          "example": "50 kA",
+          "x": -26.451,
+          "y": 12.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "trip_unit",
+          "placeholder": "{trip_unit}",
+          "example": "TM/ETU",
+          "x": -26.451,
+          "y": 15.0,
+          "anchor": "end",
+          "size": 1.7
+        },
+        {
+          "key": "manufacturer",
+          "placeholder": "{manufacturer}",
+          "example": "Sch. Electric",
+          "x": -26.451,
+          "y": 18.0,
+          "anchor": "end",
+          "size": 1.7
+        }
+      ],
+      "diagram_type": "SLD",
+      "mld_equivalent": [
+        "lv_mccb_motorized_drawout_1p_mld",
+        "lv_mccb_motorized_drawout_2p_mld",
+        "lv_mccb_motorized_drawout_3p_mld",
+        "lv_mccb_motorized_drawout_4p_mld"
       ]
     }
   ],

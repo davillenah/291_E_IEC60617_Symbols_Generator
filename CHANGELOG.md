@@ -5,6 +5,13 @@ Todos los cambios notables de este proyecto se documentan en este archivo.
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/)
 y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
+## [Unreleased]
+
+- Catálogos: 42 entradas nuevas (32 MLD y 10 SLD) para las variantes ACB/MCCB con drawout, LSIG y motorizado, y `lv_cable_run`, que faltaba.
+- Catálogos: `viewBox` y `size` sincronizados con los SVG (`size` = dimensiones en mm del SVG).
+- Catálogos: puertos del SLD sincronizados con los SVG (15 corregidos).
+- Pendiente: 10 entradas MCCB `basic`/`motorized` sin archivo SVG (8 MLD, 2 SLD).
+
 ## [0.4.14] - 2026-10-22
 
 - Paso entre polos MLD = 10 mm (antes 12.5 mm): ejes de polo en x = 0, 10, 20, 30.
