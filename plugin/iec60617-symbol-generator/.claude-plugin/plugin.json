@@ -1,6 +1,6 @@
 {
   "name": "iec60617-symbol-generator",
-  "version": "0.4.15",
+  "version": "0.4.16",
   "description": "Biblioteca de simbolos IEC 60617 para diagramas unifilares (SLD) y multifilares (MLD) de baja y media tension, en formato SVG y DXF (bloques), con catalogo en Excel.",
   "author": {
     "name": "Ingeniero Villena"
