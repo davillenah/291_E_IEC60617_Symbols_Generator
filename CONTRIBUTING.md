@@ -11,7 +11,7 @@ Gracias por colaborar con la biblioteca de símbolos IEC 60617.
 | `src/mld-lv-symbol/` | Multifilares de baja tensión (SVG + DXF) |
 | `src/mld-mv-symbol/` | Multifilares de media tensión (pendiente) |
 | `src/ssd-mv-symbol/` | Biblioteca adicional de media tensión |
-| `src/catalogo_*.xlsx` | Catálogos Excel generados |
+| `src/catalogo_simbolos.xlsx` | Catálogo Excel único (ordenado alfabéticamente por símbolo), generado con `tools/build_cat9.py` |
 | `plugin/` | Manifiesto del plugin y paquete `.plugin` |
 | `assets/` | Documento de referencia IEC 60617 |
 | `tools/` | Scripts de build (ver abajo) |
