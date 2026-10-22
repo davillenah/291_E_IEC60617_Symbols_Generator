@@ -5,6 +5,11 @@ Todos los cambios notables de este proyecto se documentan en este archivo.
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/)
 y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
+## [Unreleased]
+
+- Nuevos símbolos MCCB sin extracción (basic y motorized) en SLD (`mccb_basic`, `mccb_motorized`) y MLD 1p–4p (`mccb_basic_Np`, `mccb_motorized_Np`), generados a partir de sus versiones drawout quitando las flechas de extracción. En la versión motorizada, el puerto inferior se ubica al final del conductor.
+- Catálogo: referencias de archivo corregidas para las 10 entradas MCCB; ya no quedan entradas sin SVG.
+
 ## [0.4.15] - 2026-10-22
 
 - Catalogos JSON ordenados alfabéticamente por id, uno por biblioteca (sld-lv, sld-mv, mld-lv, mld-mv).

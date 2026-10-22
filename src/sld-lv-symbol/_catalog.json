@@ -3366,7 +3366,7 @@
     },
     {
       "id": "lv_mccb_basic",
-      "file": "lv_mccb_basic.svg",
+      "file": "291_E_LV_SLD_IEC60617_mccb_basic.svg",
       "name_es": "Interruptor de caja moldeada MCCB (símbolo de leyenda)",
       "name_en": "MCCB, legend symbol",
       "description": "Versión simplificada del MCCB con funcionalidad LSIG según la leyenda.",
@@ -3378,14 +3378,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 34.43,
-        "h": 36.25
+        "w": 50.5,
+        "h": 43.85
       },
       "viewBox": {
-        "x": -25.87,
+        "x": -38.525,
         "y": -1.6,
-        "w": 36.85,
-        "h": 38.85
+        "w": 50.5,
+        "h": 43.85
       },
       "ports": [
         {
@@ -3623,7 +3623,7 @@
     },
     {
       "id": "lv_mccb_motorized",
-      "file": "lv_mccb_motorized.svg",
+      "file": "291_E_LV_SLD_IEC60617_mccb_motorized.svg",
       "name_es": "Interruptor de caja moldeada MCCB (LSIG, motorizado)",
       "name_en": "Moulded-case circuit breaker (MCCB), motor-operated",
       "description": "MCCB con funciones I>, I>>, I>>>, I>> y motor (M).",
@@ -3635,14 +3635,14 @@
       "source": "Lámina 2 (108-2026-SOXXXXXX-E-DU-002)",
       "notes": null,
       "size": {
-        "w": 38.96,
-        "h": 47.5
+        "w": 79.442,
+        "h": 53.6
       },
       "viewBox": {
         "x": -68.03,
-        "y": -1.6,
-        "w": 78.44,
-        "h": 50.7
+        "y": -4.5,
+        "w": 79.442,
+        "h": 53.6
       },
       "ports": [
         {

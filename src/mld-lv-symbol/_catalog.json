@@ -7832,7 +7832,7 @@
     },
     {
       "id": "lv_mccb_basic_1p_mld",
-      "file": "lv_mccb_basic_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_basic_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_basic",
       "mld_equivalent": null,
@@ -7854,13 +7854,13 @@
         "S00295"
       ],
       "size": {
-        "w": 29.43,
-        "h": 40.08
+        "w": 63.02,
+        "h": 44.32
       },
       "viewBox": {
         "x": -55.02,
         "y": -4.83,
-        "w": 60.99,
+        "w": 63.02,
         "h": 44.32
       },
       "ports": [
@@ -7947,7 +7947,7 @@
     },
     {
       "id": "lv_mccb_basic_2p_mld",
-      "file": "lv_mccb_basic_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_basic_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_basic",
       "mld_equivalent": null,
@@ -7969,13 +7969,13 @@
         "S00295"
       ],
       "size": {
-        "w": 44.99,
-        "h": 40.08
+        "w": 73.021,
+        "h": 44.32
       },
       "viewBox": {
-        "x": -56.55,
+        "x": -55.021,
         "y": -4.83,
-        "w": 76.55,
+        "w": 73.021,
         "h": 44.32
       },
       "ports": [
@@ -7987,7 +7987,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -7999,7 +7999,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -8089,7 +8089,7 @@
     },
     {
       "id": "lv_mccb_basic_3p_mld",
-      "file": "lv_mccb_basic_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_basic_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_basic",
       "mld_equivalent": null,
@@ -8111,13 +8111,13 @@
         "S00295"
       ],
       "size": {
-        "w": 57.49,
-        "h": 40.08
+        "w": 83.021,
+        "h": 44.32
       },
       "viewBox": {
-        "x": -56.55,
+        "x": -55.021,
         "y": -4.83,
-        "w": 89.05,
+        "w": 83.021,
         "h": 44.32
       },
       "ports": [
@@ -8129,13 +8129,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -8147,13 +8147,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -8258,7 +8258,7 @@
     },
     {
       "id": "lv_mccb_basic_4p_mld",
-      "file": "lv_mccb_basic_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_basic_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_basic",
       "mld_equivalent": null,
@@ -8280,13 +8280,13 @@
         "S00295"
       ],
       "size": {
-        "w": 69.99,
-        "h": 40.08
+        "w": 93.021,
+        "h": 44.32
       },
       "viewBox": {
-        "x": -56.55,
+        "x": -55.021,
         "y": -4.83,
-        "w": 101.55,
+        "w": 93.021,
         "h": 44.32
       },
       "ports": [
@@ -8298,19 +8298,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -8322,19 +8322,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -9048,7 +9048,7 @@
     },
     {
       "id": "lv_mccb_motorized_1p_mld",
-      "file": "lv_mccb_motorized_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_motorized",
       "mld_equivalent": null,
@@ -9069,13 +9069,13 @@
         "S00295"
       ],
       "size": {
-        "w": 36.1,
-        "h": 51.33
+        "w": 66.635,
+        "h": 53.93
       },
       "viewBox": {
-        "x": -60.12,
+        "x": -58.635,
         "y": -4.83,
-        "w": 67.67,
+        "w": 66.635,
         "h": 53.93
       },
       "ports": [
@@ -9088,7 +9088,7 @@
         {
           "id": "bottom_L",
           "x": 0.0,
-          "y": 47.5,
+          "y": 45.868,
           "dir": "down"
         }
       ],
@@ -9145,7 +9145,7 @@
     },
     {
       "id": "lv_mccb_motorized_2p_mld",
-      "file": "lv_mccb_motorized_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_motorized",
       "mld_equivalent": null,
@@ -9166,13 +9166,13 @@
         "S00295"
       ],
       "size": {
-        "w": 48.6,
-        "h": 51.33
+        "w": 76.635,
+        "h": 53.93
       },
       "viewBox": {
-        "x": -60.12,
+        "x": -58.635,
         "y": -4.83,
-        "w": 80.17,
+        "w": 76.635,
         "h": 53.93
       },
       "ports": [
@@ -9184,20 +9184,20 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L",
           "x": 0.0,
-          "y": 47.5,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
-          "y": 47.5,
+          "x": 10.0,
+          "y": 45.868,
           "dir": "down"
         }
       ],
@@ -9265,7 +9265,7 @@
     },
     {
       "id": "lv_mccb_motorized_3p_mld",
-      "file": "lv_mccb_motorized_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_motorized",
       "mld_equivalent": null,
@@ -9286,13 +9286,13 @@
         "S00295"
       ],
       "size": {
-        "w": 61.1,
-        "h": 51.33
+        "w": 86.635,
+        "h": 53.93
       },
       "viewBox": {
-        "x": -60.12,
+        "x": -58.635,
         "y": -4.83,
-        "w": 92.67,
+        "w": 86.635,
         "h": 53.93
       },
       "ports": [
@@ -9304,32 +9304,32 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L1",
           "x": 0.0,
-          "y": 47.5,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
-          "y": 47.5,
+          "x": 10.0,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
-          "y": 47.5,
+          "x": 20.0,
+          "y": 45.868,
           "dir": "down"
         }
       ],
@@ -9408,7 +9408,7 @@
     },
     {
       "id": "lv_mccb_motorized_4p_mld",
-      "file": "lv_mccb_motorized_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mccb_motorized_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mccb_motorized",
       "mld_equivalent": null,
@@ -9429,13 +9429,13 @@
         "S00295"
       ],
       "size": {
-        "w": 73.6,
-        "h": 51.33
+        "w": 96.635,
+        "h": 53.93
       },
       "viewBox": {
-        "x": -60.12,
+        "x": -58.635,
         "y": -4.83,
-        "w": 105.17,
+        "w": 96.635,
         "h": 53.93
       },
       "ports": [
@@ -9447,44 +9447,44 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L1",
           "x": 0.0,
-          "y": 47.5,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
-          "y": 47.5,
+          "x": 10.0,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
-          "y": 47.5,
+          "x": 20.0,
+          "y": 45.868,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
-          "y": 47.5,
+          "x": 30.0,
+          "y": 45.868,
           "dir": "down"
         }
       ],
