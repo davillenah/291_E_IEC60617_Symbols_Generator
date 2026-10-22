@@ -20,6 +20,6 @@
 - [ ] Celdas y cajas con la misma medida por polo
 - [ ] Catálogo Excel regenerado (si cambió alguna imagen)
 - [ ] `CHANGELOG.md` actualizado
-- [ ] Versión actualizada en `plugin.json` y en el README del plugin
+- [ ] Versión actualizada en `CHANGELOG.md`
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)

@@ -1,6 +1,6 @@
 # MLD_LV
 
-Biblioteca de símbolos **multifilares de baja tensión** (SVG vectorial editable), creada el 10/10/2026 (v1.3.0, 58 símbolos).
+Biblioteca de símbolos **multifilares de baja tensión** (SVG vectorial editable), creada el 10/10/2026 (94 símbolos: 94 SVG + 94 DXF; 70 entradas en `_catalog.json`, 36 variantes ACB/MCCB con drawout, LSIG o motorizado aún sin entrada).
 
 ## Contenido
 - `<id>.svg`: un archivo por símbolo, con nombre `<id SLD>_<n>p_mld`.
@@ -9,7 +9,7 @@ Biblioteca de símbolos **multifilares de baja tensión** (SVG vectorial editabl
 ## Convenciones
 - **Protecciones y maniobra:** el símbolo SLD completo se repite una vez por polo (1P, 2P, 3P y 4P).
 - **Mecanismo:** cuando el equipo tiene mecanismo (ACB y MCCB), se dibuja una sola vez a la izquierda y su línea discontinua se extiende a todos los polos. En MCB, FS, seccionador y contactor se agrega un enlace mecánico discontinuo entre cuchillas (IEC 60617 S00295). Los fusibles, el relé térmico y los SPD no llevan enlace.
-- **Paso entre polos (uniforme):** 12.5 mm en todos los equipos. En los equipos con caja (ACB, MCCB y relé térmico) la caja ocupa el paso y los polos siguen pegados.
+- **Paso entre polos (uniforme):** 10 mm en todos los equipos desde 0.4.14 (antes 12.5 mm). Las celdas ACB/MCCB miden 10 mm y quedan contiguas; el relé térmico, 4,9 mm por polo.
 - **Etiquetas de polo:** L, N, L1, L2, L3 van a la derecha del conductor (x = eje + 1,2 mm, anchor start, h = 2,5 mm), nunca encima de la línea.
 - **Polos:** 1P = L · 2P = L N · 3P = L1 L2 L3 · 4P = L1 L2 L3 N.
 - **Diferenciales (RCCB y RCBO):** solo existen en 1P, 2P y 4P (no hay 3P). Llevan un único toroide a la misma altura que en el SLD, que abarca todos los polos, y un solo relé IΔ en el último polo. La línea discontinua del relé llega hasta la cuchilla del primer polo, para indicar que todos abren y cierran juntos.
@@ -82,6 +82,8 @@ Biblioteca de símbolos **multifilares de baja tensión** (SVG vectorial editabl
 - `lv_fuse_spd_fu_4p_mld`: Fusible + descargador de sobretensión (FU+SPD) 4P (multifilar). Variables: `tag`.
 
 ## Historial
+
+> Nota: este historial (v1.x, v2.x) corresponde a una copia de trabajo anterior. La fuente vigente de versiones es `CHANGELOG.md` en la raíz del repo; la última versión es 0.4.14.
 - v1.3.0 (10/10/2026): paso uniforme 26.64 pt en los 58 símbolos y etiquetas de polo al costado del conductor. Copia de la v1.2.1 en `ELECTRICAL_SYMBOLS/_backup/MLD_LV_v1.2.1`.
 
 ## v2.0.0 (10/10/2026): migración a mm según IRAM

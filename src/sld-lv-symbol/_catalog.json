@@ -41,7 +41,7 @@
   "symbols": [
     {
       "id": "lv_acb_motorized",
-      "file": "lv_acb_motorized.svg",
+      "file": "291_E_LV_SLD_IEC60617_acb_motorized.svg",
       "name_es": "Interruptor de aire ACB con motorización",
       "name_en": "Air circuit breaker (ACB), motor-operated",
       "description": "ACB con unidad de protección (I>, I>>), marcador de equipo y motor de carga (M).",
@@ -203,7 +203,7 @@
     },
     {
       "id": "lv_acb_basic",
-      "file": "lv_acb_basic.svg",
+      "file": "291_E_LV_SLD_IEC60617_acb.svg",
       "name_es": "Interruptor de aire ACB (símbolo de leyenda)",
       "name_en": "Air circuit breaker (ACB), legend symbol",
       "description": "Versión simplificada del ACB según la leyenda del plano.",
@@ -327,7 +327,7 @@
     },
     {
       "id": "lv_fuse_disconnector_nh00",
-      "file": "lv_fuse_disconnector_nh00.svg",
+      "file": "291_E_LV_SLD_IEC60617_fuse_disconnector_nh00.svg",
       "name_es": "Fusible seccionable NH00",
       "name_en": "NH00 fuse disconnector",
       "description": "Fusible NH con barras de conexión (columna de protección de TGBT).",
@@ -404,7 +404,7 @@
     },
     {
       "id": "lv_spd_varistor",
-      "file": "lv_spd_varistor.svg",
+      "file": "291_E_LV_SLD_IEC60617_spd_varistor.svg",
       "name_es": "Descargador de sobretensión (SPD) con varistor",
       "name_en": "Surge protective device (SPD)",
       "description": "Caja con símbolo de varistor; se conecta a tierra por su extremo inferior.",
@@ -472,7 +472,7 @@
     },
     {
       "id": "lv_earth_pe",
-      "file": "lv_earth_pe.svg",
+      "file": "291_E_LV_SLD_IEC60617_earth_pe.svg",
       "name_es": "Puesta a tierra (PE)",
       "name_en": "Earth connection (PE)",
       "description": "Símbolo de tierra dentro de círculo, en verde (color PE de los planos).",
@@ -519,7 +519,7 @@
     },
     {
       "id": "lv_fuse_switch_fs",
-      "file": "lv_fuse_switch_fs.svg",
+      "file": "291_E_LV_SLD_IEC60617_fuse_switch_fs.svg",
       "name_es": "Fusible seccionador (FS)",
       "name_en": "Fuse-switch disconnector (FS)",
       "description": "Fusible seccionador según leyenda.",
@@ -578,7 +578,7 @@
     },
     {
       "id": "lv_fuse_spd_fu",
-      "file": "lv_fuse_spd_fu.svg",
+      "file": "291_E_LV_SLD_IEC60617_fuse_spd_fu.svg",
       "name_es": "Fusible + descargador de sobretensión (FU+SPD)",
       "name_en": "Fuse + SPD (FU+SPD)",
       "description": "Dispositivo de protección contra sobretensiones transitorias con fusibles.",
@@ -637,7 +637,7 @@
     },
     {
       "id": "lv_three_phase_marker",
-      "file": "lv_three_phase_marker.svg",
+      "file": "291_E_LV_SLD_IEC60617_three_phase_marker.svg",
       "name_es": "Marcador 3 fases + neutro",
       "name_en": "Three-phase + neutral marker",
       "description": "Trazos oblicuos con círculo que indican 3 fases más neutro sobre un conductor.",
@@ -674,7 +674,7 @@
     },
     {
       "id": "lv_ct",
-      "file": "lv_ct.svg",
+      "file": "291_E_LV_SLD_IEC60617_ct.svg",
       "name_es": "Transformador de corriente (TI)",
       "name_en": "Current transformer (CT)",
       "description": "Círculo sobre el conductor (primario) con salida de secundario a la derecha.",
@@ -733,7 +733,7 @@
     },
     {
       "id": "lv_vt",
-      "file": "lv_vt.svg",
+      "file": "291_E_LV_SLD_IEC60617_vt.svg",
       "name_es": "Transformador de tensión (TT)",
       "name_en": "Voltage transformer (VT)",
       "description": "Dos círculos solapados con estrella (Y) y derivación.",
@@ -786,7 +786,7 @@
     },
     {
       "id": "lv_network_analyzer_ar",
-      "file": "lv_network_analyzer_ar.svg",
+      "file": "291_E_LV_SLD_IEC60617_network_analyzer_ar.svg",
       "name_es": "Analizador de red (AR)",
       "name_en": "Network analyzer (AR)",
       "description": "Caja rotulada AR para el analizador de red.",
@@ -826,7 +826,7 @@
     },
     {
       "id": "lv_rccb",
-      "file": "lv_rccb.svg",
+      "file": "291_E_LV_SLD_IEC60617_rccb.svg",
       "name_es": "Interruptor diferencial (RCCB)",
       "name_en": "Residual-current circuit breaker (RCCB)",
       "description": "RCCB con toroide y bobina diferencial.",
@@ -904,7 +904,7 @@
     },
     {
       "id": "lv_mcb",
-      "file": "lv_mcb.svg",
+      "file": "291_E_LV_SLD_IEC60617_mcb.svg",
       "name_es": "Interruptor termomagnético (MCB)",
       "name_en": "Miniature circuit breaker (MCB)",
       "description": "MCB unipolar/bipolar con disparador térmico.",
@@ -981,7 +981,7 @@
     },
     {
       "id": "lv_bypass_ups",
-      "file": "lv_bypass_ups.svg",
+      "file": "291_E_LV_SLD_IEC60617_bypass_ups.svg",
       "name_es": "Conmutador by-pass para UPS",
       "name_en": "UPS bypass selector",
       "description": "Selector de posición 1-2 con contactos y línea de enclavamiento (by-pass manual).",
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "lv_switch_3way",
-      "file": "lv_switch_3way.svg",
+      "file": "291_E_LV_SLD_IEC60617_switch_3way.svg",
       "name_es": "Conmutador de 3 vías (SW)",
       "name_en": "Three-way changeover switch (SW)",
       "description": "Conmutador de tres vías usado como selector de alimentación (TGBT 1 / TGBT 2).",
@@ -1073,7 +1073,7 @@
     },
     {
       "id": "lv_cable_arrow_in",
-      "file": "lv_cable_arrow_in.svg",
+      "file": "291_E_LV_SLD_IEC60617_cable_arrow_in.svg",
       "name_es": "Flecha de acometida (cable que ingresa)",
       "name_en": "Incoming cable arrow",
       "description": "Flecha roja hacia abajo: cable que ingresa al tablero.",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "lv_cable_arrow_out",
-      "file": "lv_cable_arrow_out.svg",
+      "file": "291_E_LV_SLD_IEC60617_cable_arrow_out.svg",
       "name_es": "Flecha de carga (cable que sale)",
       "name_en": "Outgoing cable arrow",
       "description": "Flecha roja: cable que sale hacia destino/carga.",
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "lv_contactor",
-      "file": "lv_contactor.svg",
+      "file": "291_E_LV_SLD_IEC60617_contactor.svg",
       "name_es": "Contactor de potencia",
       "name_en": "Power contactor",
       "description": "Cuchilla con arco de extinción sobre el conductor.",
@@ -1205,7 +1205,7 @@
     },
     {
       "id": "lv_thermal_overload",
-      "file": "lv_thermal_overload.svg",
+      "file": "291_E_LV_SLD_IEC60617_thermal_overload.svg",
       "name_es": "Relé térmico de sobrecarga",
       "name_en": "Thermal overload relay",
       "description": "Rectángulo con elemento bimetálico en serie con el conductor.",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "lv_motor_3ph",
-      "file": "lv_motor_3ph.svg",
+      "file": "291_E_LV_SLD_IEC60617_motor_3ph.svg",
       "name_es": "Motor trifásico",
       "name_en": "Three-phase motor",
       "description": "Círculo con M y 3~. Rotulos: potencia (kW), corriente, tag.",
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "lv_generator",
-      "file": "lv_generator.svg",
+      "file": "291_E_LV_SLD_IEC60617_generator.svg",
       "name_es": "Generador trifásico",
       "name_en": "Three-phase generator",
       "description": "Círculo con G y 3~.",
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "lv_vfd",
-      "file": "lv_vfd.svg",
+      "file": "291_E_LV_SLD_IEC60617_vfd.svg",
       "name_es": "Variador de frecuencia (VFD)",
       "name_en": "Variable frequency drive (VFD)",
       "description": "Caja con rótulo VFD y corriente nominal.",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "lv_soft_starter",
-      "file": "lv_soft_starter.svg",
+      "file": "291_E_LV_SLD_IEC60617_soft_starter.svg",
       "name_es": "Arrancador suave",
       "name_en": "Soft starter",
       "description": "Caja con rótulo SS.",
@@ -1482,7 +1482,7 @@
     },
     {
       "id": "lv_ups",
-      "file": "lv_ups.svg",
+      "file": "291_E_LV_SLD_IEC60617_ups.svg",
       "name_es": "UPS",
       "name_en": "Uninterruptible power supply (UPS)",
       "description": "Caja con rótulo UPS, entrada y salida.",
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "lv_capacitor",
-      "file": "lv_capacitor.svg",
+      "file": "291_E_LV_SLD_IEC60617_capacitor.svg",
       "name_es": "Condensador / banco de compensación",
       "name_en": "Capacitor (PFC bank)",
       "description": "Dos placas en serie con el conductor; derivación.",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": "lv_switch_disconnector",
-      "file": "lv_switch_disconnector.svg",
+      "file": "291_E_LV_SLD_IEC60617_switch_disconnector.svg",
       "name_es": "Seccionador (corte visible)",
       "name_en": "Switch disconnector",
       "description": "Cuchilla con contacto fijo y barra superior.",
@@ -1645,7 +1645,7 @@
     },
     {
       "id": "lv_fuse",
-      "file": "lv_fuse.svg",
+      "file": "291_E_LV_SLD_IEC60617_fuse.svg",
       "name_es": "Fusible",
       "name_en": "Fuse",
       "description": "Rectángulo con línea central.",
@@ -1703,7 +1703,7 @@
     },
     {
       "id": "lv_load_box_kw",
-      "file": "lv_load_box_kw.svg",
+      "file": "291_E_LV_SLD_IEC60617_load_box_kw.svg",
       "name_es": "Carga genérica (caja kW)",
       "name_en": "Generic load (kW box)",
       "description": "Cuadrado con rótulo de potencia.",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "lv_busbar_node",
-      "file": "lv_busbar_node.svg",
+      "file": "291_E_LV_SLD_IEC60617_busbar_node.svg",
       "name_es": "Nodo de barra (derivación)",
       "name_en": "Busbar tap node",
       "description": "Punto de conexión de un alimentador a la barra.",
@@ -1796,7 +1796,7 @@
     },
     {
       "id": "lv_rcbo",
-      "file": "lv_rcbo.svg",
+      "file": "291_E_LV_SLD_IEC60617_rcbo.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": [
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "lv_rcd_relay_toroid",
-      "file": "lv_rcd_relay_toroid.svg",
+      "file": "291_E_LV_SLD_IEC60617_rcd_relay_toroid.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1995,7 +1995,7 @@
     },
     {
       "id": "lv_protection_relay",
-      "file": "lv_protection_relay.svg",
+      "file": "291_E_LV_SLD_IEC60617_protection_relay.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2082,7 +2082,7 @@
     },
     {
       "id": "lv_energy_meter_kwh",
-      "file": "lv_energy_meter_kwh.svg",
+      "file": "291_E_LV_SLD_IEC60617_energy_meter_kwh.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "lv_ammeter",
-      "file": "lv_ammeter.svg",
+      "file": "291_E_LV_SLD_IEC60617_ammeter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2235,7 +2235,7 @@
     },
     {
       "id": "lv_voltmeter",
-      "file": "lv_voltmeter.svg",
+      "file": "291_E_LV_SLD_IEC60617_voltmeter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2299,7 +2299,7 @@
     },
     {
       "id": "lv_pilot_lamp",
-      "file": "lv_pilot_lamp.svg",
+      "file": "291_E_LV_SLD_IEC60617_pilot_lamp.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2376,7 +2376,7 @@
     },
     {
       "id": "lv_ats",
-      "file": "lv_ats.svg",
+      "file": "291_E_LV_SLD_IEC60617_ats.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2472,7 +2472,7 @@
     },
     {
       "id": "lv_wattmeter",
-      "file": "lv_wattmeter.svg",
+      "file": "291_E_LV_SLD_IEC60617_wattmeter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2554,7 +2554,7 @@
     },
     {
       "id": "lv_varimeter",
-      "file": "lv_varimeter.svg",
+      "file": "291_E_LV_SLD_IEC60617_varimeter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2636,7 +2636,7 @@
     },
     {
       "id": "lv_frequency_meter",
-      "file": "lv_frequency_meter.svg",
+      "file": "291_E_LV_SLD_IEC60617_frequency_meter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2700,7 +2700,7 @@
     },
     {
       "id": "lv_pf_meter",
-      "file": "lv_pf_meter.svg",
+      "file": "291_E_LV_SLD_IEC60617_pf_meter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2765,7 +2765,7 @@
     },
     {
       "id": "lv_transformer_2w",
-      "file": "lv_transformer_2w.svg",
+      "file": "291_E_LV_SLD_IEC60617_transformer_2w.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2843,7 +2843,7 @@
     },
     {
       "id": "lv_autotransformer",
-      "file": "lv_autotransformer.svg",
+      "file": "291_E_LV_SLD_IEC60617_autotransformer.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2926,7 +2926,7 @@
     },
     {
       "id": "lv_reactor",
-      "file": "lv_reactor.svg",
+      "file": "291_E_LV_SLD_IEC60617_reactor.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3005,7 +3005,7 @@
     },
     {
       "id": "lv_battery",
-      "file": "lv_battery.svg",
+      "file": "291_E_LV_SLD_IEC60617_battery.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3096,7 +3096,7 @@
     },
     {
       "id": "lv_motor_1ph",
-      "file": "lv_motor_1ph.svg",
+      "file": "291_E_LV_SLD_IEC60617_motor_1ph.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3168,7 +3168,7 @@
     },
     {
       "id": "lv_rectifier",
-      "file": "lv_rectifier.svg",
+      "file": "291_E_LV_SLD_IEC60617_rectifier.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3257,7 +3257,7 @@
     },
     {
       "id": "lv_pushbutton_no",
-      "file": "lv_pushbutton_no.svg",
+      "file": "291_E_LV_SLD_IEC60617_pushbutton_no.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3317,7 +3317,7 @@
     },
     {
       "id": "lv_pushbutton_nc",
-      "file": "lv_pushbutton_nc.svg",
+      "file": "291_E_LV_SLD_IEC60617_pushbutton_nc.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3377,7 +3377,7 @@
     },
     {
       "id": "lv_selector_switch",
-      "file": "lv_selector_switch.svg",
+      "file": "291_E_LV_SLD_IEC60617_selector_switch.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3448,7 +3448,7 @@
     },
     {
       "id": "lv_neutral_link",
-      "file": "lv_neutral_link.svg",
+      "file": "291_E_LV_SLD_IEC60617_neutral_link.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3507,7 +3507,7 @@
     },
     {
       "id": "lv_busbar_coupler",
-      "file": "lv_busbar_coupler.svg",
+      "file": "291_E_LV_SLD_IEC60617_busbar_coupler.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3566,7 +3566,7 @@
     },
     {
       "id": "lv_contact_no",
-      "file": "lv_contact_no.svg",
+      "file": "291_E_LV_SLD_IEC60617_contact_no.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3629,7 +3629,7 @@
     },
     {
       "id": "lv_contact_nc",
-      "file": "lv_contact_nc.svg",
+      "file": "291_E_LV_SLD_IEC60617_contact_nc.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3692,7 +3692,7 @@
     },
     {
       "id": "lv_lighting_load",
-      "file": "lv_lighting_load.svg",
+      "file": "291_E_LV_SLD_IEC60617_lighting_load.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3766,7 +3766,7 @@
     },
     {
       "id": "lv_heating_load",
-      "file": "lv_heating_load.svg",
+      "file": "291_E_LV_SLD_IEC60617_heating_load.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3840,7 +3840,7 @@
     },
     {
       "id": "lv_generic_load",
-      "file": "lv_generic_load.svg",
+      "file": "291_E_LV_SLD_IEC60617_generic_load.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3910,7 +3910,7 @@
     },
     {
       "id": "lv_socket_outlet",
-      "file": "lv_socket_outlet.svg",
+      "file": "291_E_LV_SLD_IEC60617_socket_outlet.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -3984,7 +3984,7 @@
     },
     {
       "id": "lv_isolating_transformer",
-      "file": "lv_isolating_transformer.svg",
+      "file": "291_E_LV_SLD_IEC60617_isolating_transformer.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4064,7 +4064,7 @@
     },
     {
       "id": "lv_inverter",
-      "file": "lv_inverter.svg",
+      "file": "291_E_LV_SLD_IEC60617_inverter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4154,7 +4154,7 @@
     },
     {
       "id": "lv_pv_module",
-      "file": "lv_pv_module.svg",
+      "file": "291_E_LV_SLD_IEC60617_pv_module.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4242,7 +4242,7 @@
     },
     {
       "id": "lv_dc_disconnect",
-      "file": "lv_dc_disconnect.svg",
+      "file": "291_E_LV_SLD_IEC60617_dc_disconnect.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4321,7 +4321,7 @@
     },
     {
       "id": "lv_earth_bar",
-      "file": "lv_earth_bar.svg",
+      "file": "291_E_LV_SLD_IEC60617_earth_bar.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4388,7 +4388,7 @@
     },
     {
       "id": "lv_emergency_stop",
-      "file": "lv_emergency_stop.svg",
+      "file": "291_E_LV_SLD_IEC60617_emergency_stop.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4461,7 +4461,7 @@
     },
     {
       "id": "lv_motor_starter_dol",
-      "file": "lv_motor_starter_dol.svg",
+      "file": "291_E_LV_SLD_IEC60617_motor_starter_dol.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4549,7 +4549,7 @@
     },
     {
       "id": "lv_battery_storage",
-      "file": "lv_battery_storage.svg",
+      "file": "291_E_LV_SLD_IEC60617_battery_storage.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4637,7 +4637,7 @@
     },
     {
       "id": "lv_capacitor_bank",
-      "file": "lv_capacitor_bank.svg",
+      "file": "291_E_LV_SLD_IEC60617_capacitor_bank.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": "lv_capacitor_3p_mld",
@@ -4720,7 +4720,7 @@
     },
     {
       "id": "lv_manual_transfer_switch",
-      "file": "lv_manual_transfer_switch.svg",
+      "file": "291_E_LV_SLD_IEC60617_manual_transfer_switch.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": "lv_ats_3p_mld",
@@ -4808,7 +4808,7 @@
     },
     {
       "id": "lv_dimmer",
-      "file": "lv_dimmer.svg",
+      "file": "291_E_LV_SLD_IEC60617_dimmer.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -4889,7 +4889,7 @@
     },
     {
       "id": "lv_ev_charger",
-      "file": "lv_ev_charger.svg",
+      "file": "291_E_LV_SLD_IEC60617_ev_charger.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,

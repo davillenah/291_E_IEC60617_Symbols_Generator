@@ -41,7 +41,7 @@
   "symbols": [
     {
       "id": "mv_cell_gam2_remonte",
-      "file": "mv_cell_gam2_remonte.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_gam2_remonte.svg",
       "name_es": "Celda GAM2 (remonte de cable)",
       "name_en": "GAM2 cable riser cell",
       "description": "Celda SM AirSET GAM2: remonte de cable con barra, indicador capacitivo de tensión y terminal de cable.",
@@ -162,7 +162,7 @@
     },
     {
       "id": "mv_cell_dmva_proteccion",
-      "file": "mv_cell_dmva_proteccion.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_dmva_proteccion.svg",
       "name_es": "Celda DMVL-A (interruptor automático / protección de trafo)",
       "name_en": "DMVL-A circuit-breaker cell",
       "description": "Celda SM AirSET DMVL-A: seccionador, interruptor, toroidal, relé disparador, seccionador de tierra e indicador de tensión.",
@@ -283,7 +283,7 @@
     },
     {
       "id": "mv_cell_im_interruptor",
-      "file": "mv_cell_im_interruptor.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_im_interruptor.svg",
       "name_es": "Celda IM (interruptor-seccionador)",
       "name_en": "IM switch-disconnector cell",
       "description": "Celda SM AirSET IM: interruptor-seccionador con contacto auxiliar, indicador capacitivo y terminal de cable.",
@@ -395,7 +395,7 @@
     },
     {
       "id": "mv_transformer_2w",
-      "file": "mv_transformer_2w.svg",
+      "file": "291_E_MV_SLD_IEC60617_transformer_2w.svg",
       "name_es": "Transformador de potencia (2 arrollamientos)",
       "name_en": "Two-winding power transformer",
       "description": "Dos círculos solapados con conductores de entrada y salida (T1 / T2 de 1000 kVA).",
@@ -454,7 +454,7 @@
     },
     {
       "id": "mv_vpis",
-      "file": "mv_vpis.svg",
+      "file": "291_E_MV_SLD_IEC60617_vpis.svg",
       "name_es": "Indicador capacitivo de presencia de tensión",
       "name_en": "Capacitive voltage presence indicator (VPIS)",
       "description": "Derivación capacitiva con borne indicador (semicírculo). Aparece en cada celda.",
@@ -501,7 +501,7 @@
     },
     {
       "id": "mv_disconnector",
-      "file": "mv_disconnector.svg",
+      "file": "291_E_MV_SLD_IEC60617_disconnector.svg",
       "name_es": "Seccionador con contacto superior",
       "name_en": "Disconnector with upper contact",
       "description": "Contacto fijo (círculo) y cuchilla abierta sobre el conductor de salida de la celda IM.",
@@ -553,7 +553,7 @@
     },
     {
       "id": "mv_ct_toroidal",
-      "file": "mv_ct_toroidal.svg",
+      "file": "291_E_MV_SLD_IEC60617_ct_toroidal.svg",
       "name_es": "Transformador de corriente toroidal",
       "name_en": "Toroidal current transformer",
       "description": "Círculo sobre el conductor (toroidal de celda DMVL).",
@@ -606,7 +606,7 @@
     },
     {
       "id": "mv_cable_termination_down",
-      "file": "mv_cable_termination_down.svg",
+      "file": "291_E_MV_SLD_IEC60617_cable_termination_down.svg",
       "name_es": "Terminal de cable (hacia abajo)",
       "name_en": "Cable termination (down)",
       "description": "Triángulo relleno que marca el terminal de cable de salida.",
@@ -657,7 +657,7 @@
     },
     {
       "id": "mv_cable_termination_up",
-      "file": "mv_cable_termination_up.svg",
+      "file": "291_E_MV_SLD_IEC60617_cable_termination_up.svg",
       "name_es": "Terminal de cable (hacia arriba)",
       "name_en": "Cable termination (up)",
       "description": "Triángulo relleno invertido (terminal de cable de remonte).",
@@ -708,7 +708,7 @@
     },
     {
       "id": "mv_circuit_breaker",
-      "file": "mv_circuit_breaker.svg",
+      "file": "291_E_MV_SLD_IEC60617_circuit_breaker.svg",
       "name_es": "Interruptor automático MT",
       "name_en": "MV circuit breaker",
       "description": "Cuchilla con marca x de contacto de ruptura.",
@@ -760,7 +760,7 @@
     },
     {
       "id": "mv_load_break_switch",
-      "file": "mv_load_break_switch.svg",
+      "file": "291_E_MV_SLD_IEC60617_load_break_switch.svg",
       "name_es": "Interruptor-seccionador MT",
       "name_en": "MV load-break switch",
       "description": "Contacto fijo, cuchilla y semicírculo de corte en carga.",
@@ -812,7 +812,7 @@
     },
     {
       "id": "mv_earthing_switch",
-      "file": "mv_earthing_switch.svg",
+      "file": "291_E_MV_SLD_IEC60617_earthing_switch.svg",
       "name_es": "Seccionador de puesta a tierra",
       "name_en": "Earthing switch",
       "description": "Cuchilla lateral hacia símbolo de tierra.",
@@ -858,7 +858,7 @@
     },
     {
       "id": "mv_fuse",
-      "file": "mv_fuse.svg",
+      "file": "291_E_MV_SLD_IEC60617_fuse.svg",
       "name_es": "Fusible MT",
       "name_en": "MV fuse",
       "description": "Rectángulo con línea central.",
@@ -910,7 +910,7 @@
     },
     {
       "id": "mv_surge_arrester",
-      "file": "mv_surge_arrester.svg",
+      "file": "291_E_MV_SLD_IEC60617_surge_arrester.svg",
       "name_es": "Pararrayos / descargador MT",
       "name_en": "MV surge arrester",
       "description": "Caja con varistor y tierra.",
@@ -956,7 +956,7 @@
     },
     {
       "id": "mv_ct",
-      "file": "mv_ct.svg",
+      "file": "291_E_MV_SLD_IEC60617_ct.svg",
       "name_es": "Transformador de corriente MT",
       "name_en": "MV current transformer",
       "description": "Círculo sobre el conductor.",
@@ -1008,7 +1008,7 @@
     },
     {
       "id": "mv_vt",
-      "file": "mv_vt.svg",
+      "file": "291_E_MV_SLD_IEC60617_vt.svg",
       "name_es": "Transformador de tensión MT",
       "name_en": "MV voltage transformer",
       "description": "Dos círculos solapados con derivación.",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "mv_motor_3ph",
-      "file": "mv_motor_3ph.svg",
+      "file": "291_E_MV_SLD_IEC60617_motor_3ph.svg",
       "name_es": "Motor MT",
       "name_en": "MV motor",
       "description": "Círculo con M y 3~.",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "mv_generator",
-      "file": "mv_generator.svg",
+      "file": "291_E_MV_SLD_IEC60617_generator.svg",
       "name_es": "Generador MT",
       "name_en": "MV generator",
       "description": "Círculo con G y 3~.",
@@ -1156,7 +1156,7 @@
     },
     {
       "id": "mv_capacitor_bank",
-      "file": "mv_capacitor_bank.svg",
+      "file": "291_E_MV_SLD_IEC60617_capacitor_bank.svg",
       "name_es": "Banco de capacitores MT",
       "name_en": "MV capacitor bank",
       "description": "Dos placas con derivación.",
@@ -1208,7 +1208,7 @@
     },
     {
       "id": "mv_cell_qm_fusibles",
-      "file": "mv_cell_qm_fusibles.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_qm_fusibles.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1337,7 +1337,7 @@
     },
     {
       "id": "mv_cell_cm_medicion_tension",
-      "file": "mv_cell_cm_medicion_tension.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_cm_medicion_tension.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "mv_cell_gbc_medida",
-      "file": "mv_cell_gbc_medida.svg",
+      "file": "291_E_MV_SLD_IEC60617_cell_gbc_medida.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1595,7 +1595,7 @@
     },
     {
       "id": "mv_protection_relay",
-      "file": "mv_protection_relay.svg",
+      "file": "291_E_MV_SLD_IEC60617_protection_relay.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "mv_energy_meter",
-      "file": "mv_energy_meter.svg",
+      "file": "291_E_MV_SLD_IEC60617_energy_meter.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1763,7 +1763,7 @@
     },
     {
       "id": "mv_switch_fuse_combination",
-      "file": "mv_switch_fuse_combination.svg",
+      "file": "291_E_MV_SLD_IEC60617_switch_fuse_combination.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1843,7 +1843,7 @@
     },
     {
       "id": "mv_neutral_earthing_resistor",
-      "file": "mv_neutral_earthing_resistor.svg",
+      "file": "291_E_MV_SLD_IEC60617_neutral_earthing_resistor.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -1927,7 +1927,7 @@
     },
     {
       "id": "mv_reactor",
-      "file": "mv_reactor.svg",
+      "file": "291_E_MV_SLD_IEC60617_reactor.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2006,7 +2006,7 @@
     },
     {
       "id": "mv_transformer_3w",
-      "file": "mv_transformer_3w.svg",
+      "file": "291_E_MV_SLD_IEC60617_transformer_3w.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2099,7 +2099,7 @@
     },
     {
       "id": "mv_autotransformer",
-      "file": "mv_autotransformer.svg",
+      "file": "291_E_MV_SLD_IEC60617_autotransformer.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2183,7 +2183,7 @@
     },
     {
       "id": "mv_petersen_coil",
-      "file": "mv_petersen_coil.svg",
+      "file": "291_E_MV_SLD_IEC60617_petersen_coil.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2266,7 +2266,7 @@
     },
     {
       "id": "mv_grounding_transformer",
-      "file": "mv_grounding_transformer.svg",
+      "file": "291_E_MV_SLD_IEC60617_grounding_transformer.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2350,7 +2350,7 @@
     },
     {
       "id": "mv_recloser",
-      "file": "mv_recloser.svg",
+      "file": "291_E_MV_SLD_IEC60617_recloser.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2440,7 +2440,7 @@
     },
     {
       "id": "mv_voltage_regulator",
-      "file": "mv_voltage_regulator.svg",
+      "file": "291_E_MV_SLD_IEC60617_voltage_regulator.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2528,7 +2528,7 @@
     },
     {
       "id": "mv_busbar_coupler",
-      "file": "mv_busbar_coupler.svg",
+      "file": "291_E_MV_SLD_IEC60617_busbar_coupler.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2618,7 +2618,7 @@
     },
     {
       "id": "mv_ring_main_unit",
-      "file": "mv_ring_main_unit.svg",
+      "file": "291_E_MV_SLD_IEC60617_ring_main_unit.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2705,7 +2705,7 @@
     },
     {
       "id": "mv_differential_relay",
-      "file": "mv_differential_relay.svg",
+      "file": "291_E_MV_SLD_IEC60617_differential_relay.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,
@@ -2786,7 +2786,7 @@
     },
     {
       "id": "mv_distance_relay",
-      "file": "mv_distance_relay.svg",
+      "file": "291_E_MV_SLD_IEC60617_distance_relay.svg",
       "diagram_type": "SLD",
       "sld_equivalent": null,
       "mld_equivalent": null,

@@ -690,7 +690,7 @@
     },
     {
       "id": "lv_rcbo_1p_mld",
-      "file": "lv_rcbo_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rcbo_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rcbo",
       "mld_equivalent": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": "lv_rcbo_2p_mld",
-      "file": "lv_rcbo_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rcbo_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rcbo",
       "mld_equivalent": null,
@@ -836,7 +836,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -848,7 +848,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -923,7 +923,7 @@
     },
     {
       "id": "lv_rcbo_4p_mld",
-      "file": "lv_rcbo_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rcbo_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rcbo",
       "mld_equivalent": null,
@@ -964,19 +964,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -988,19 +988,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "lv_acb_basic_1p_mld",
-      "file": "lv_acb_basic_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_basic",
       "mld_equivalent": null,
@@ -1173,7 +1173,7 @@
     },
     {
       "id": "lv_acb_basic_2p_mld",
-      "file": "lv_acb_basic_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_basic",
       "mld_equivalent": null,
@@ -1212,7 +1212,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1224,7 +1224,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -1272,7 +1272,7 @@
     },
     {
       "id": "lv_acb_basic_3p_mld",
-      "file": "lv_acb_basic_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_basic",
       "mld_equivalent": null,
@@ -1311,13 +1311,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1329,13 +1329,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "lv_acb_basic_4p_mld",
-      "file": "lv_acb_basic_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_basic",
       "mld_equivalent": null,
@@ -1433,19 +1433,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1457,19 +1457,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "lv_acb_motorized_1p_mld",
-      "file": "lv_acb_motorized_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_motorized",
       "mld_equivalent": null,
@@ -1634,7 +1634,7 @@
     },
     {
       "id": "lv_acb_motorized_2p_mld",
-      "file": "lv_acb_motorized_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_motorized",
       "mld_equivalent": null,
@@ -1673,7 +1673,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1685,7 +1685,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "lv_acb_motorized_3p_mld",
-      "file": "lv_acb_motorized_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_motorized",
       "mld_equivalent": null,
@@ -1791,13 +1791,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1809,13 +1809,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -1893,7 +1893,7 @@
     },
     {
       "id": "lv_acb_motorized_4p_mld",
-      "file": "lv_acb_motorized_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_acb_motorized_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_acb_motorized",
       "mld_equivalent": null,
@@ -1932,19 +1932,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -1956,19 +1956,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 35.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 35.0,
           "dir": "down"
         }
@@ -2583,7 +2583,7 @@
     },
     {
       "id": "lv_mcb_1p_mld",
-      "file": "lv_mcb_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mcb_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mcb",
       "mld_equivalent": null,
@@ -2666,7 +2666,7 @@
     },
     {
       "id": "lv_mcb_2p_mld",
-      "file": "lv_mcb_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mcb_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mcb",
       "mld_equivalent": null,
@@ -2705,7 +2705,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -2717,7 +2717,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -2772,7 +2772,7 @@
     },
     {
       "id": "lv_mcb_3p_mld",
-      "file": "lv_mcb_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mcb_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mcb",
       "mld_equivalent": null,
@@ -2811,13 +2811,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -2829,13 +2829,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -2901,7 +2901,7 @@
     },
     {
       "id": "lv_mcb_4p_mld",
-      "file": "lv_mcb_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_mcb_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_mcb",
       "mld_equivalent": null,
@@ -2940,19 +2940,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -2964,19 +2964,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -3053,7 +3053,7 @@
     },
     {
       "id": "lv_rccb_1p_mld",
-      "file": "lv_rccb_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rccb_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rccb",
       "mld_equivalent": null,
@@ -3136,7 +3136,7 @@
     },
     {
       "id": "lv_rccb_2p_mld",
-      "file": "lv_rccb_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rccb_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rccb",
       "mld_equivalent": null,
@@ -3173,7 +3173,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3185,7 +3185,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -3242,7 +3242,7 @@
     },
     {
       "id": "lv_rccb_4p_mld",
-      "file": "lv_rccb_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_rccb_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_rccb",
       "mld_equivalent": null,
@@ -3279,19 +3279,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3303,19 +3303,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 32.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 32.5,
           "dir": "down"
         }
@@ -3394,7 +3394,7 @@
     },
     {
       "id": "lv_fuse_1p_mld",
-      "file": "lv_fuse_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse",
       "mld_equivalent": null,
@@ -3465,7 +3465,7 @@
     },
     {
       "id": "lv_fuse_2p_mld",
-      "file": "lv_fuse_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse",
       "mld_equivalent": null,
@@ -3501,7 +3501,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3513,7 +3513,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -3559,7 +3559,7 @@
     },
     {
       "id": "lv_fuse_3p_mld",
-      "file": "lv_fuse_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse",
       "mld_equivalent": null,
@@ -3595,13 +3595,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3613,13 +3613,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -3676,7 +3676,7 @@
     },
     {
       "id": "lv_fuse_4p_mld",
-      "file": "lv_fuse_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse",
       "mld_equivalent": null,
@@ -3712,19 +3712,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3736,19 +3736,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -3816,7 +3816,7 @@
     },
     {
       "id": "lv_fuse_disconnector_nh00_1p_mld",
-      "file": "lv_fuse_disconnector_nh00_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_disconnector_nh00_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_disconnector_nh00",
       "mld_equivalent": null,
@@ -3906,7 +3906,7 @@
     },
     {
       "id": "lv_fuse_disconnector_nh00_2p_mld",
-      "file": "lv_fuse_disconnector_nh00_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_disconnector_nh00_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_disconnector_nh00",
       "mld_equivalent": null,
@@ -3943,7 +3943,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -3955,7 +3955,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -4019,7 +4019,7 @@
     },
     {
       "id": "lv_fuse_disconnector_nh00_3p_mld",
-      "file": "lv_fuse_disconnector_nh00_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_disconnector_nh00_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_disconnector_nh00",
       "mld_equivalent": null,
@@ -4056,13 +4056,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -4074,13 +4074,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -4155,7 +4155,7 @@
     },
     {
       "id": "lv_fuse_disconnector_nh00_4p_mld",
-      "file": "lv_fuse_disconnector_nh00_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_disconnector_nh00_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_disconnector_nh00",
       "mld_equivalent": null,
@@ -4192,19 +4192,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -4216,19 +4216,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -4314,7 +4314,7 @@
     },
     {
       "id": "lv_fuse_switch_fs_1p_mld",
-      "file": "lv_fuse_switch_fs_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_switch_fs_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_switch_fs",
       "mld_equivalent": null,
@@ -4388,7 +4388,7 @@
     },
     {
       "id": "lv_fuse_switch_fs_2p_mld",
-      "file": "lv_fuse_switch_fs_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_switch_fs_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_switch_fs",
       "mld_equivalent": null,
@@ -4427,7 +4427,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -4439,7 +4439,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 37.5,
           "dir": "down"
         }
@@ -4485,7 +4485,7 @@
     },
     {
       "id": "lv_fuse_switch_fs_3p_mld",
-      "file": "lv_fuse_switch_fs_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_switch_fs_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_switch_fs",
       "mld_equivalent": null,
@@ -4524,13 +4524,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -4542,13 +4542,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 37.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 37.5,
           "dir": "down"
         }
@@ -4605,7 +4605,7 @@
     },
     {
       "id": "lv_fuse_switch_fs_4p_mld",
-      "file": "lv_fuse_switch_fs_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_switch_fs_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_switch_fs",
       "mld_equivalent": null,
@@ -4644,19 +4644,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -4668,19 +4668,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 37.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 37.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 37.5,
           "dir": "down"
         }
@@ -4748,7 +4748,7 @@
     },
     {
       "id": "lv_switch_disconnector_1p_mld",
-      "file": "lv_switch_disconnector_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_switch_disconnector_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_switch_disconnector",
       "mld_equivalent": null,
@@ -4787,7 +4787,7 @@
         {
           "id": "bottom_L",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -4821,7 +4821,7 @@
     },
     {
       "id": "lv_switch_disconnector_2p_mld",
-      "file": "lv_switch_disconnector_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_switch_disconnector_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_switch_disconnector",
       "mld_equivalent": null,
@@ -4859,20 +4859,20 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
-          "y": 17.5,
+          "x": 10.0,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -4917,7 +4917,7 @@
     },
     {
       "id": "lv_switch_disconnector_3p_mld",
-      "file": "lv_switch_disconnector_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_switch_disconnector_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_switch_disconnector",
       "mld_equivalent": null,
@@ -4955,32 +4955,32 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L1",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
-          "y": 17.5,
+          "x": 10.0,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
-          "y": 17.5,
+          "x": 20.0,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -5036,7 +5036,7 @@
     },
     {
       "id": "lv_switch_disconnector_4p_mld",
-      "file": "lv_switch_disconnector_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_switch_disconnector_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_switch_disconnector",
       "mld_equivalent": null,
@@ -5074,44 +5074,44 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bottom_L1",
           "x": 0.0,
-          "y": 17.5,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
-          "y": 17.5,
+          "x": 10.0,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
-          "y": 17.5,
+          "x": 20.0,
+          "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
-          "y": 17.5,
+          "x": 30.0,
+          "y": 15.0,
           "dir": "down"
         }
       ],
@@ -5178,7 +5178,7 @@
     },
     {
       "id": "lv_contactor_1p_mld",
-      "file": "lv_contactor_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_contactor_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_contactor",
       "mld_equivalent": null,
@@ -5251,7 +5251,7 @@
     },
     {
       "id": "lv_contactor_2p_mld",
-      "file": "lv_contactor_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_contactor_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_contactor",
       "mld_equivalent": null,
@@ -5289,7 +5289,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5301,7 +5301,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -5347,7 +5347,7 @@
     },
     {
       "id": "lv_contactor_3p_mld",
-      "file": "lv_contactor_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_contactor_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_contactor",
       "mld_equivalent": null,
@@ -5385,13 +5385,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5403,13 +5403,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -5466,7 +5466,7 @@
     },
     {
       "id": "lv_contactor_4p_mld",
-      "file": "lv_contactor_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_contactor_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_contactor",
       "mld_equivalent": null,
@@ -5504,19 +5504,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5528,19 +5528,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 15.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 15.0,
           "dir": "down"
         }
@@ -5608,7 +5608,7 @@
     },
     {
       "id": "lv_thermal_overload_1p_mld",
-      "file": "lv_thermal_overload_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_thermal_overload_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_thermal_overload",
       "mld_equivalent": null,
@@ -5680,7 +5680,7 @@
     },
     {
       "id": "lv_thermal_overload_2p_mld",
-      "file": "lv_thermal_overload_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_thermal_overload_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_thermal_overload",
       "mld_equivalent": null,
@@ -5717,7 +5717,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5729,7 +5729,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 12.5,
           "dir": "down"
         }
@@ -5775,7 +5775,7 @@
     },
     {
       "id": "lv_thermal_overload_3p_mld",
-      "file": "lv_thermal_overload_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_thermal_overload_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_thermal_overload",
       "mld_equivalent": null,
@@ -5812,13 +5812,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5830,13 +5830,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 12.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 12.5,
           "dir": "down"
         }
@@ -5893,7 +5893,7 @@
     },
     {
       "id": "lv_thermal_overload_4p_mld",
-      "file": "lv_thermal_overload_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_thermal_overload_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_thermal_overload",
       "mld_equivalent": null,
@@ -5930,19 +5930,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -5954,19 +5954,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 12.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 12.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 12.5,
           "dir": "down"
         }
@@ -6034,7 +6034,7 @@
     },
     {
       "id": "lv_spd_varistor_1p_mld",
-      "file": "lv_spd_varistor_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_spd_varistor_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_spd_varistor",
       "mld_equivalent": null,
@@ -6103,7 +6103,7 @@
     },
     {
       "id": "lv_spd_varistor_2p_mld",
-      "file": "lv_spd_varistor_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_spd_varistor_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_spd_varistor",
       "mld_equivalent": null,
@@ -6140,7 +6140,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6152,7 +6152,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -6185,7 +6185,7 @@
     },
     {
       "id": "lv_spd_varistor_3p_mld",
-      "file": "lv_spd_varistor_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_spd_varistor_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_spd_varistor",
       "mld_equivalent": null,
@@ -6222,13 +6222,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6240,13 +6240,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -6280,7 +6280,7 @@
     },
     {
       "id": "lv_spd_varistor_4p_mld",
-      "file": "lv_spd_varistor_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_spd_varistor_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_spd_varistor",
       "mld_equivalent": null,
@@ -6317,19 +6317,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6341,19 +6341,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -6388,7 +6388,7 @@
     },
     {
       "id": "lv_fuse_spd_fu_1p_mld",
-      "file": "lv_fuse_spd_fu_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_spd_fu_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_spd_fu",
       "mld_equivalent": null,
@@ -6448,7 +6448,7 @@
     },
     {
       "id": "lv_fuse_spd_fu_2p_mld",
-      "file": "lv_fuse_spd_fu_2p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_spd_fu_2p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_spd_fu",
       "mld_equivalent": null,
@@ -6485,7 +6485,7 @@
         },
         {
           "id": "top_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6497,7 +6497,7 @@
         },
         {
           "id": "bottom_N",
-          "x": 12.5,
+          "x": 10.0,
           "y": 40.0,
           "dir": "down"
         }
@@ -6521,7 +6521,7 @@
     },
     {
       "id": "lv_fuse_spd_fu_3p_mld",
-      "file": "lv_fuse_spd_fu_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_spd_fu_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_spd_fu",
       "mld_equivalent": null,
@@ -6558,13 +6558,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6576,13 +6576,13 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 40.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 40.0,
           "dir": "down"
         }
@@ -6607,7 +6607,7 @@
     },
     {
       "id": "lv_fuse_spd_fu_4p_mld",
-      "file": "lv_fuse_spd_fu_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_fuse_spd_fu_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_fuse_spd_fu",
       "mld_equivalent": null,
@@ -6644,19 +6644,19 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -6668,19 +6668,19 @@
         },
         {
           "id": "bottom_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 40.0,
           "dir": "down"
         },
         {
           "id": "bottom_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 40.0,
           "dir": "down"
         },
         {
           "id": "bottom_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 40.0,
           "dir": "down"
         }
@@ -6706,7 +6706,7 @@
     },
     {
       "id": "lv_vfd_3p_mld",
-      "file": "lv_vfd_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_vfd_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_vfd",
       "mld_equivalent": null,
@@ -6751,25 +6751,25 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -6819,7 +6819,7 @@
     },
     {
       "id": "lv_vfd_4p_mld",
-      "file": "lv_vfd_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_vfd_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_vfd",
       "mld_equivalent": null,
@@ -6864,37 +6864,37 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -6947,7 +6947,7 @@
     },
     {
       "id": "lv_soft_starter_3p_mld",
-      "file": "lv_soft_starter_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_soft_starter_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_soft_starter",
       "mld_equivalent": null,
@@ -6993,25 +6993,25 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -7061,7 +7061,7 @@
     },
     {
       "id": "lv_ups_3p_mld",
-      "file": "lv_ups_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_ups_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_ups",
       "mld_equivalent": null,
@@ -7106,25 +7106,25 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 22.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 22.5,
           "dir": "down"
         }
@@ -7174,7 +7174,7 @@
     },
     {
       "id": "lv_ats_3p_mld",
-      "file": "lv_ats_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_ats_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_ats",
       "mld_equivalent": null,
@@ -7213,13 +7213,13 @@
         },
         {
           "id": "top_S1_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_S1_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -7231,13 +7231,13 @@
         },
         {
           "id": "top_S2_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": -7.5,
           "dir": "up"
         },
         {
           "id": "top_S2_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": -7.5,
           "dir": "up"
         },
@@ -7249,13 +7249,13 @@
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 26.5,
           "dir": "down"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 26.5,
           "dir": "down"
         }
@@ -7308,7 +7308,7 @@
     },
     {
       "id": "lv_ats_4p_mld",
-      "file": "lv_ats_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_ats_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_ats",
       "mld_equivalent": null,
@@ -7347,19 +7347,19 @@
         },
         {
           "id": "top_S1_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_S1_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_S1_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
@@ -7371,19 +7371,19 @@
         },
         {
           "id": "top_S2_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": -7.5,
           "dir": "up"
         },
         {
           "id": "top_S2_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": -7.5,
           "dir": "up"
         },
         {
           "id": "top_S2_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": -7.5,
           "dir": "up"
         },
@@ -7395,19 +7395,19 @@
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 26.5,
           "dir": "down"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 26.5,
           "dir": "down"
         },
         {
           "id": "bot_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 26.5,
           "dir": "down"
         }
@@ -7464,7 +7464,7 @@
     },
     {
       "id": "lv_neutral_link_1p_mld",
-      "file": "lv_neutral_link_1p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_neutral_link_1p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_neutral_link",
       "mld_equivalent": null,
@@ -7527,7 +7527,7 @@
     },
     {
       "id": "lv_busbar_coupler_3p_mld",
-      "file": "lv_busbar_coupler_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_busbar_coupler_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_busbar_coupler",
       "mld_equivalent": null,
@@ -7572,25 +7572,25 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 17.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 17.5,
           "dir": "down"
         }
@@ -7621,7 +7621,7 @@
     },
     {
       "id": "lv_busbar_coupler_4p_mld",
-      "file": "lv_busbar_coupler_4p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_busbar_coupler_4p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_busbar_coupler",
       "mld_equivalent": null,
@@ -7666,37 +7666,37 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 17.5,
           "dir": "down"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 17.5,
           "dir": "down"
         },
         {
           "id": "top_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "bot_N",
-          "x": 37.5,
+          "x": 30.0,
           "y": 17.5,
           "dir": "down"
         }
@@ -7730,7 +7730,7 @@
     },
     {
       "id": "lv_motor_3ph_3p_mld",
-      "file": "lv_motor_3ph_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_motor_3ph_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_motor_3ph",
       "mld_equivalent": null,
@@ -7771,13 +7771,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         }
@@ -7822,7 +7822,7 @@
     },
     {
       "id": "lv_generator_3p_mld",
-      "file": "lv_generator_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_generator_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_generator",
       "mld_equivalent": null,
@@ -7863,13 +7863,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         }
@@ -7914,7 +7914,7 @@
     },
     {
       "id": "lv_capacitor_3p_mld",
-      "file": "lv_capacitor_3p_mld.svg",
+      "file": "291_E_LV_MLD_IEC60617_capacitor_3p.svg",
       "diagram_type": "MLD",
       "sld_equivalent": "lv_capacitor_bank",
       "mld_equivalent": null,
@@ -7956,13 +7956,13 @@
         },
         {
           "id": "top_L2",
-          "x": 12.5,
+          "x": 10.0,
           "y": 0.0,
           "dir": "up"
         },
         {
           "id": "top_L3",
-          "x": 25.0,
+          "x": 20.0,
           "y": 0.0,
           "dir": "up"
         }

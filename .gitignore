@@ -221,5 +221,7 @@ __marimo__/
 
 # Claude
 
-plugin/iec60617-symbol-generator/
 backups/
+# Backups
+*.bak
+*.bak.*

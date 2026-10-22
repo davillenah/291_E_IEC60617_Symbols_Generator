@@ -48,7 +48,7 @@ python tools/build_cat9.py project src/catalogo_simbolos.xlsx
 2. Haz los cambios y verifica que los SVG sean XML válido.
 3. Regenera los DXF de los archivos modificados.
 4. Regenera los catálogos Excel si cambió alguna imagen.
-5. Actualiza `CHANGELOG.md` y la versión en `plugin/iec60617-symbol-generator/.claude-plugin/plugin.json` y en el README del plugin.
+5. Actualiza `CHANGELOG.md` con la nueva versión. La carpeta de manifiesto del plugin (`plugin/iec60617-symbol-generator/`) es de uso interno y no está versionada; sólo se versiona el paquete `plugin/iec60617-symbol-generator.plugin`.
 6. Abre un Pull Request usando la plantilla de `.github/pull_request_template.md`.
 
 ## Mensajes de commit
