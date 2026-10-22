@@ -1,0 +1,7 @@
+# Normalizar fin de línea en texto
+* text=auto eol=lf
+
+# Binarios
+*.xlsx binary
+*.plugin binary
+*.pdf binary
